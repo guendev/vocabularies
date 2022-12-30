@@ -1,15 +1,17 @@
 const fs = require('fs')
 const path = require('path')
 
+const key = '1000 TỪ CƠ BẢN'
+
 const func = async () => {
-    const resource = JSON.parse(fs.readFileSync( path.resolve(__dirname, '../mochi/NEW TOEIC/NEW TOEIC.json')))
+    const resource = JSON.parse(fs.readFileSync( path.resolve(__dirname, `../mochi/${key}/${key}.json`)))
     //
     let arrs = '['
     for (let i = 0; i < resource.length; i++) {
         const data = resource[i]
         arrs += '"' + data.name + '",'
 
-        const vocabularies = JSON.parse(fs.readFileSync(path.resolve(__dirname, `../mochi/NEW TOEIC/resource/${data.name}.json`)))
+        const vocabularies = JSON.parse(fs.readFileSync(path.resolve(__dirname, `../mochi/${key}/resource/${data.name}.json`)))
 
         let text = ''
 
@@ -22,13 +24,13 @@ const func = async () => {
             text += '\n'
         }
 
-        await fs.writeFileSync(path.resolve(__dirname, `../mochi/NEW TOEIC/memries/${i+1}_${data.name}.txt`), text)
+        await fs.writeFileSync(path.resolve(__dirname, `../mochi/${key}/memries/${i+1}_${data.name}.txt`), text)
 
     }
 
     arrs += ']'
 
-    await fs.writeFileSync(path.resolve(__dirname, `../mochi/NEW TOEIC/list.txt`), arrs)
+    await fs.writeFileSync(path.resolve(__dirname, `../mochi/${key}/list.txt`), arrs)
 
     // let text = ''
     //
