@@ -1,0 +1,11 @@
+appropriate	Thích hợp, thích đáng	/əˈprəʊpriət/	Skills can be enhanced by the appropriate use of technology in certain circumstances.	adj	
+complete	Đầy đủ, trọn vẹn, hoàn toàn	/kəmˈpliːt/	The office is equipped with a complete computer network.	adj	
+constantly	Một cách liên tục, không đổi	/ˈkɑːnstəntli/	Hi-tech companies are constantly involved in experimentation with new products in order to stay ahead of their competitors.	adv	
+detect	Phát hiện, khám phá ra	/dɪˈtekt/	This equipment can detect very low frequency signals.	v	
+efficiency	Sự hiệu quả, hiệu suất, năng suất	/ɪˈfɪʃnsi/	Local telephone companies formed an association to serve common goals, meet their common needs, and improve efficiency.	n	
+efficient	Có năng suất, hiệu quả	/ɪˈfɪʃnt/	The new computer system is very efficient in transferring information.	adj	
+disruption	Sự gián đoạn, sự phá vỡ	/dɪsˈrʌpʃn/	Telecommuting allows employees to work on tasks that may be difficult to complete in an office full of disruptions.	n	
+facility	Trang thiết bị, công trình, cơ sở vật chất	/fəˈsɪləti/	They provide facilities management services to corporations, hospitals and universities.	n	
+keep up with	Theo kịp với, cập nhật với	/kiːp ʌp wɪð/	A successful company must keep up with the pace of technological change.	phrV	
+plug in	Cắm vào, ghép vào	/plʌɡ ɪn/	The keyboard plugs in at the back of the computer.	Phr.V	
+renovation	Sự sửa sang, cải tạo (tòa nhà)	/ˌrenəˈveɪʃn/	There will be extensive renovations to the hospital.	n	

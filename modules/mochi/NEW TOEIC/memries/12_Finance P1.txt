@@ -1,0 +1,11 @@
+financial	Thuộc về tài chính	/faɪˈnænʃl/	Tokyo and New York are major financial centres all over the world.	adj	
+calculation	Sự tính toán, cân nhắc	/ˌkælkjuˈleɪʃn/	We cannot make a precise calculation of the price until we have all the costs.	n	
+cost breakdown	Bản phân tích chi phí	/kɔːst ˈbreɪkdaʊn/	This is a detailed cost breakdown of the costs involved in building a house.	phrase	
+quarter	Quý (trong năm)	/ˈkwɔːrtər/	Unforeseen events this year caused profits in the second and third quarters to differ significantly from original projections.	n	
+deposit	Tiền đặt cọc, tiền gửi	/dɪˈpɑːzɪt/	You have to pay $20,000 as a deposit for renting the apartment.	n	
+distribute	Phân phối	/dɪˈstrɪbjuːt/	The dividend was calculated and distributed to the groups.	v	
+marginal	Cận biên (kinh tế), ở lề	/ˈmɑːrdʒɪnl/	All three companies reported marginal revenue growth.	adj	
+closure	Sự kết thúc, bế mạc, đóng cửa	/ˈkləʊʒər/	The financial crisis has led to the closure of a number of non-essential government services.	n	
+conservative	Bảo thủ, dè dặt, thận trọng	/kənˈsɜːrvətɪv/	A conservative estimate puts annual sales at around $100 million.	adj	
+exceptional	Khác thường, đặc biệt, ngoại lệ	/ɪkˈsepʃənl/	The financial reserve fund will only be use in exceptional circumstances.	adj	
+revenue	Thu nhập, tổng thu nhập	/ˈrevənuː/	The show has become a lucrative revenue stream for the TV company.	n	

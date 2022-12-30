@@ -1,0 +1,11 @@
+experience	Kinh nghiệm, trải nghiệm	/ɪkˈspɪriəns/	They employed someone with many years' experience as a mine regulator.	n	
+applicant	Người xin việc, ứng viên	/ˈæplɪkənt/	The successful applicant will have experience in project management.	n	
+background	Gia cảnh, tiểu sử, học vấn	/ˈbækɡraʊnd/	Since they discovered the truth about his background, his colleagues have regarded him with suspicion.	n	
+candidate	Ứng viên, người ứng tuyển	/ˈkændəˌdeɪt/	The HR manager is talking to a job candidate at the moment.	n	
+portfolio	Tập tài liệu, bộ hồ sơ	/pɔːrtˈfəʊliəʊ/	She's trying to build up a portfolio of work to show during job interviews.	n	
+recruit	Tuyển, chiêu mộ, thu nạp	/rɪˈkruːt/	It's increasingly difficult to recruit and retain good staff.	v	
+abundant	Phong phú, nhiều, dồi dào	/əˈbʌndənt/	The recruiter was surprised by the abundant number of qualified applicants.	adj	
+attendance	Sự có mặt, số người có mặt	/əˈtendəns/	Attendance at this training is mandatory for everyone hired since June of this year.	n	
+available	Có sẵn, tiếp cận được	/əˈveɪləbl/	Information about the recruitment and job requirements are available on the company's website.	adj	
+commute	Đi làm (đều đặn qua lại giữa nhà và nơi làm)	/kəˈmjuːt/	Our company is willing to hire people that are able to commute long distances for work.	v	
+definitely	Một cách chắc chắn	/ˈdefɪnətli/	In terms of experience, she definitely has the edge over the other people that we interviewed.	adv	

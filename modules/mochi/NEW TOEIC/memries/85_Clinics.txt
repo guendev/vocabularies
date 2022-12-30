@@ -1,0 +1,11 @@
+annually	Hàng năm	/ˈænjuəli/	I annually go for checkups at my clinic.	adv	
+anxious	Lo lắng, lo âu	/ˈæŋkʃəs/	As the date of his operation drew near, he became more and more anxious.	adj	
+cavity	Sâu răng	/ˈkævəti/	The dentist couldn't find any cavities in his teeth.	n	
+check-up	Kiểm tra sức khỏe tổng quát	/ˈtʃek ʌp/	You should have an annual medical check-up.	n	
+convenient	Thuận tiện, thoải mái	/kənˈviːniənt/	The clinic on Maple Drive is more convenient for me.	adj	
+exact	Chính xác, đúng đắn	/ɪɡˈzækt/	The exact number of people carrying the virus identified at the local clinic was 3.	adj	
+instrument	Dụng cụ, công cụ	/ˈɪnstrəmənt/	The dentist uses many instruments to fix teeth.	n	
+physical	Thuộc về thân thể, cần thể lực	/ˈfɪzɪkl/	Participants who provided a special code were offered a complimentary physical checkup from the clinic.	adj	
+sign up	Đăng ký (tài khoản, khóa học)	/saɪn ʌp/	If you want to register for a clinical trial, you should sign up an account first.	phrV	
+system	Hệ thống	/ˈsɪstəm/	This clinic is full of the most advanced medical systems now.	n	
+treatment	Sự đối xử, đối đãi	/ˈtriːtmənt/	Peter gets special treatment because he knows the boss.	n	

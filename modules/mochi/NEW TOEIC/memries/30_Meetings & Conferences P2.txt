@@ -1,0 +1,10 @@
+matter	Có ý nghĩa quan trọng, có ảnh hưởng	/ˈmætər/	Managers are discussing and tackling the things that matter most to employees.	v	
+participate	Tham gia	/pɑːrˈtɪsɪpeɪt/	We could not get enough people to participate in the meeting, so we canceled it.	v	
+present	Trao, tặng, đưa	/prɪˈzent/	The winners were presented with medals	v	
+productive	Năng suất, hiệu quả	/prəˈdʌktɪv/	The managers had a very productive meeting and were able to solve many of the problems.	adj	
+relevant	Có liên quan, thích đáng	/ˈreləvənt/	Please have a pen and paper by the phone and be ready to record the relevant information about the meeting.	adj	
+respond	Trả lời, phản hồi	/rɪˈspɑːnd/	He has responded to the invitation to attend the business workshop.	v	
+tentative	Dự kiến, ướm thử	/ˈtentətɪv/	I have checked the tentative conference schedule for Wednesday.	adj	
+ultimately	Cuối cùng, sau cùng, chính yếu	/ˈʌltɪmətli/	Everything will ultimately depend on what is said at the meeting with the directors next week.	adv	
+withdraw	Rút lui, rút khỏi	/wɪðˈdrɔː/	Mr. Le has informed me that he is withdrawing from the conference.	v	
+worsen	Làm cái gì tồi tệ hơn	/ˈwɜːrsn/	His idea in the meeting only worsens the problem.	v	

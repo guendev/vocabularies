@@ -1,0 +1,12 @@
+accurately	Đúng đắn, chính xác, xác đáng	/ˈækjərətli/	There is a trade-off between doing the job accurately and doing it quickly.	adv	
+follow a procedure	Làm theo thủ tục, theo quy trình	/ˈfɑːləʊ ə prəˈsiːdʒər/	Being a phone operator requires following a procedure.	phrase	
+interruption	Sự gián đoạn, sự ngắt lời	/ˌɪntəˈrʌpʃn/	The system helps staffs work without interruption.	n	
+superior	Tốt hơn, xuất sắc hơn	/suːˈpɪriər/	The physical presence of a computer engineer is vastly superior to telephone technical support.	adj	
+supervise	Giám sát, quản lý, kiểm soát	/ˈsuːpərvaɪz/	As chief of staff, he supervised the operations of the California Department of Justice.	v	
+supervisory staff	Nhân viên giám sát	/ˌsuːpərˈvaɪzəri stæf/	We need to employ some more supervisory staff during the whole production process.	phrase	
+time-consuming	Tốn thời gian	/ˈtaɪm kənsuːmɪŋ/	It's quite time-consuming having to check all the labels individually.	adj	
+timeline	Lịch trình	/ˈtaɪmlaɪn/	The timeline for the pathway lighting project was extended to allow for input from the environmental commission.	n	
+workflow	Tiến trình công việc, quy trình, chuỗi công việc	/ˈwɜːrkfləʊ/	The high cost of workflow systems limits their appeal to the larger organization.	n	
+administrative	Liên quan tới việc quản lý, hành chính	/ədˈmɪnɪstreɪtɪv/	This software claims to reduce administrative costs.	adj	
+adjustment	Sự điều chỉnh	/əˈdʒʌstmənt/	He made a few minor adjustments to the inventory management system.	n	
+executive	Người điều hành, giám đốc điều hành	/ɪɡˈzekjətɪv/	Company executives are currently reviewing the annual budget requirements submitted to them by the Financial Planning department.	n	

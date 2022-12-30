@@ -1,0 +1,12 @@
+contact	Liên hệ, liên lạc	/ˈkɑːntækt/	Last night I was contacted by my travel agent who said he had found a better price on a car rental.	v	
+deluxe	Thuộc loại sang trọng	/dɪˈlʌks/	The train station is not near any of the deluxe hotels, so we will have to take a taxi.	adj	
+destination	Đích đến, điểm đến	/ˌdestɪˈneɪʃn/	Our luggage was checked all the way through to our final destination.	n	
+directory	Sách chỉ dẫn, bảng chỉ dẫn, thư mục máy tính	/dəˈrektəri/	We consulted the directory to see where the train station was located.	n	
+disappointed	Thất vọng	/ˌdɪsəˈpɔɪntɪd/	We were all disappointed to learn that the picnic had been cancelled.	adj	
+duration	Khoảng thời gian	/duˈreɪʃn/	My boyfriend lent me his spare jacket for the duration of the trip.	n	
+excursion	Cuộc du ngoạn, chuyến tham quan	/ɪkˈskɜːrʒn/	I have arranged with my classmates for an excursion to Hawaii.	n	
+forecast	Sự dự đoán, dự báo	/ˈfɔːrkæst/	Contrary to expectations and the weather forecast, we had a beautiful day for the picnic.	n	
+guide	Người chỉ dẫn	/ɡaɪd/	The guide led our tour group to a small restaurant.	n	
+historical	Thuộc lịch sử, có liên quan đến lịch sử	/hɪˈstɔːrɪkl/	This historical site attracts thousands of visitors a year.	adj	
+intend	Dự định, có ý định	/ɪnˈtend/	I never intended to drive to Los Angeles until my brother suggested we do it together.	v	
+itinerary	Hành trình, lộ trình	/aɪˈtɪnəreri/	Visits to four different countries are included in our itinerary.	n	

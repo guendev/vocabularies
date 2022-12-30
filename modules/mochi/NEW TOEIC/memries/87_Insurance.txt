@@ -1,0 +1,12 @@
+allow for	Kể đến, tính đến, bao gồm	/əˈlaʊ fər/	Does your insurance allow for home nursing care?	phrV	
+coincidence	Sự trùng hợp	/kəʊˈɪnsɪdəns/	Insurers will suspect your car fire was on purpose rather than coincidence.	n	
+comprehensive	Bao hàm toàn diện	/ˌkɑːmprɪˈhensɪv/	It is a common misconception that car hire insurance is comprehensive.	adj	
+cover	Che phủ, bao trùm, che đậy, đủ trang trải	/ˈkʌvər/	You can buy specialist life insurance to cover funeral expenses.	v	
+coverage	Sự che phủ, việc đưa tin trên đài báo, (phạm vi) bảo hiểm	/ˈkʌvərɪdʒ/	In 2018, private health insurance coverage continued to be more prevalent than public coverage, covering 67.3 percent of the population.	n	
+deduction	Sự khấu trừ	/dɪˈdʌkʃn/	Health insurance costs are included among expenses that are eligible for the medical expense deduction.	n	
+disclose	Tiết lộ, để lộ	/dɪsˈkləʊz/	An applicant for insurance must disclose any information relevant to the insurer.	v	
+hesitant	Do dự, ngập ngừng, lưỡng lự	/ˈhezɪtənt/	Many people are hesitant to buy life insurance as they think it is not necessary yet.	adj	
+ignore	Lờ đi, phớt lờ	/ɪɡˈnɔːr/	Insurance companies, after realizing you won't accept their first offer, may start to ignore you or intentionally delay your claim.	v	
+regardless	Bất kể, không liên quan đến	/rɪˈɡɑːrdləs/	Your insurance must cover you regardless of your medical history.	adv	
+statement	Lời phát biểu, bản tuyên bố	/ˈsteɪtmənt/	I had to sign a statement saying that my insurance claim is correct.	n	
+suggest	Đề xuất, gợi ý	/səˈdʒest/	The doctor suggested that Lan check with her insurance company to make sure it would authorize a lengthened hospital stay.	v	

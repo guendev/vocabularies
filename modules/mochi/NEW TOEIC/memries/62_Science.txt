@@ -1,0 +1,11 @@
+apply	Áp dụng, ứng dụng	/əˈplaɪ/	These scientists are trying to apply significant scientific findings to our reality.	v	
+be composed of	Được tạo thành từ	/bi kəmˈpəʊzd əv/	The human body is composed of about 60% water.	phrase	
+complex structure	Cấu trúc phức tạp, rắc rối	/kəmˈpleks ˈstrʌktʃər/	Scientists have been studying on the complex structure of the human brain for decades.	phrase	
+discovery	Sự khám phá ra, phát kiến	/dɪˈskʌvəri/	The two scientists both made the same discovery independently, at roughly the same time.	n	
+enrich	Làm giàu thêm, làm tốt lên	/ɪnˈrɪtʃ/	The study of science has enriched all our lives.	v	
+experiment	Thí nghiệm, thử nghiệm	/ɪkˈsperɪmənt/	The experiment with cells from other species was unsuccessful.	n	
+generate	Sản xuất, phát ra năng lượng	/ˈdʒenəreɪt/	Wind turbines generate electricity for the local community.	v	
+reflection	Sự phản chiếu	/rɪˈflekʃn/	The reflection in the glass made it hard for her to distinguish how many were on the shelf.	n	
+revolution	Cuộc cách mạng	/ˌrevəˈluːʃn/	The discovery of penicillin produced a revolution in medicine.	n	
+specific	Cụ thể, nhất định	/spəˈsɪfɪk/	Massage may help to increase blood flow to specific areas of the body.	adj	
+applicable	Có thể áp dụng, thích hợp	/əˈplɪkəbl/	The method of weighing equal volumes is particularly applicable to the determination of the relative densities of liquids.	adj	

@@ -1,0 +1,11 @@
+agriculture	Sự làm nông	/ˈæɡrɪkʌltʃər/	Many farmers are overusing chemical fertilizers in agriculture.	n	
+harvesting crops	Thu hoạch vụ mùa	/ˈhɑːrvɪstɪŋ krɑːps/	Steps include planting, fertilizing, cultivating, spraying, irrigating and harvesting crops.	phrase	
+introduce	Giới thiệu	/ˌɪntrəˈduːs/	They will introduce new agricultural techniques to the villagers next month.	v	
+irrigate	Tưới tiêu, rửa (vết thương)	/ˈɪrɪɡeɪt/	The stored water is then used to irrigate nearby agricultural land.	v	
+leftover	Còn lại, còn dư	/ˈleftəʊvər/	Amateur gardeners can take any leftover pesticides to household waste recycling centres.	adj	
+occupation	Nghề nghiệp, việc làm	/ˌɑːkjuˈpeɪʃn/	Agricultural work is traditionally seen as a male occupation.	n	
+plant	Nhà máy	/plænt/	Two more car-assembly plants were closed by the strike.	n	
+production	Sự sản xuất, sản lượng	/prəˈdʌkʃn/	The conditions were unfavourable for intensive agricultural production.	n	
+supply	Nguồn cung, sự cung cấp	/səˈplaɪ/	Advances in agriculture increased the food supply.	n	
+withhold	Giữ lại, từ chối đưa ra	/wɪðˈhəʊld/	Farmers might withhold some of their current corn harvest from the market, anticipating a higher corn price in the future.	v	
+yield	Sản lượng, lợi nhuận	/jiːld/	MKZ buys most of the yield from the region's strawberry farms.	n	

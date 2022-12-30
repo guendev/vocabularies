@@ -1,0 +1,12 @@
+franchise	Sự nhượng quyền kinh doanh	/ˈfræntʃaɪz/	When Jemburger opened its newest franchise, the first 100 customers were given free hamburgers.	n	
+community	Cộng đồng	/kəˈmjuːnəti/	We know that 80% of economic growth comes from businesses already located within our communities.	n	
+diversify	Đa dạng hóa	/daɪˈvɜːrsɪfaɪ/	The company has decided to diversify into online services.	v	
+establish	Thành lập, thiết lập	/ɪˈstæblɪʃ/	The company intends to establish a presence in Korea.	v	
+importance	Sự quan trọng, tầm quan trọng	/ɪmˈpɔːrtns/	We have always stressed the importance of economic reform.	n	
+operate	Vận hành (hoạt động kinh doanh)	/ˈɑːpəreɪt/	McDonald's operates business under franchise.	v	
+profitably	Có lợi nhuận, có ích, có lợi	/ˈprɑːfɪtəbli/	Several new businesses began operating during the year and are already trading profitably.	adv	
+proper	Thích hợp, theo quy tắc, đúng cách	/ˈprɑːpər/	To avoid going out of business, owners should prepare a proper business plan.	a	
+reduction	Sự thu nhỏ, giảm bớt	/rɪˈdʌkʃn/	Stiffening competition in the market has led to a reduction in the company's profits this year.	n	
+relatively	Khá là	/ˈrelətɪvli/	It is relatively easy for newcomers to pick off the most lucrative business and ignore the rest.	adv	
+run out	Hết, cạn kiệt, hết hạn	/rʌn aʊt/	Current estimates suggest that supplies will run out within six months, so we have to plan thoroughly.	phrV	
+strong	Khả quan, giá trị cao	/strɔːŋ/	Many businesses fail even in a strong economic climate, so do your planning carefully.	adj	

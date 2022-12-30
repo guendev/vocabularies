@@ -1,0 +1,12 @@
+cancel	Xóa bỏ, hủy bỏ	/ˈkænsl/	It is vitally important to cancel the order immediately after detecting errors.	v	
+confirmation	Sự xác nhận, chứng thực	/ˌkɑːnfərˈmeɪʃn/	According to the confirmation I received, my order should have arrived yesterday.	n	
+courier	Người đưa thư, thư tín, chuyển phát	/ˈkʊriər/	Vietnam courier service will clear the goods through customs.	n	
+defect	Sự thiếu sót, sai sót	/ˈdiːfekt/	The cargo you delivered to me last week had some defects.	n	
+delay	Sự chậm trễ, sự trì hoãn	/dɪˈleɪ/	There is a delay in the delivery because of the heavy storm.	n	
+delivery	Việc giao hàng	/dɪˈlɪvəri/	Some of these stores will even take orders by telephone with free delivery.	n	
+innovative	Có tính đổi mới, sáng tạo	/ˈɪnəveɪtɪv/	World Fish Supply delivers the freshest fish possible thanks to innovative shipping methods.	adj	
+process	Xử lý	/ˈprɑːses/	Custom orders may take up to five days for processing before they are shipped.	v	
+ship	Chuyên chở, vận chuyển	/ʃɪp/	Within four years they were shipping fabrics and silks to customers in Australia.	v	
+shipment	Lô hàng	/ˈʃɪpmənt/	A shipment of urgent medical supplies is expected to arrive very soon.	n	
+unload	Dỡ (hàng), tháo (đạn)	/ˌʌnˈləʊd/	Workers unloaded everything from the boat and cleaned it thoroughly before the next shipment.	v	
+inquire	Hỏi thông tin, tìm hiểu	/ɪnˈkwaɪər/	Mrs Tuck called half an hour ago to inquire whether her order was ready.	v	

@@ -1,0 +1,12 @@
+gather	Thu thập, hợp lại	/ˈɡæðər/	The conductor gathered tickets before the first stop.	v	
+detour	Sự đi đường vòng	/ˈdiːtʊr/	My bus had to take a detour because of thick snow, so I will be there in 30 minutes.	n	
+complicated	Phức tạp, rắc rối, nan giải	/ˈkɑːmplɪkeɪtɪd/	The road system was so complicated that we had to stop several times to find our bearings.	adj	
+be equipped with	Được trang bị (cái gì)	/bi ɪˈkwɪpt wɪð/	In the future, cars equipped with on-board computers will be able to detect and avoid traffic jams automatically.	phrase	
+logistic	Về hậu cần, liên quan đến hậu cần	/ləˈdʒɪstɪk/	Effective transport and logistic systems are crucial for delivering drugs, vaccines and supplies.	adj	
+long-term	Dài hạn, lâu dài	/ˌlɔːŋ ˈtɜːrm/	The creation of an efficient and sustainable transport system is critical to the long-term future of Vietnam.	adj	
+minimize	Tối thiểu hóa, giảm thiểu	/ˈmɪnɪmaɪz/	One of the effective measures to minimize the dangers of driving is to teach people to obey all the rules of the road.	v	
+proximity	Sự lân cận, sự gần gũi	/prɑːkˈsɪməti/	The site is in close proximity to motorways and an airport.	n	
+transportation	Giao thông, vận tải, vận chuyển	/ˌtrænspərˈteɪʃn/	AKZ Company shall bear all the transportation cost of the goods.	n	
+usage	Cách dùng, sự sử dụng	/ˈjuːsɪdʒ/	The usage of a car allows us humans to travel great distances in a short amount of time.	n	
+violation	Sự vi phạm	/ˌvaɪəˈleɪʃn/	Susan's driver's license has been suspended due to three traffic violation.	n	
+usable	Có thể sử dụng, (đủ tốt để) dùng được	/ˈjuːzəbl/	Our transit system is accessible and usable by persons with disabilities, including wheelchair users.	adj	

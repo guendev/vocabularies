@@ -1,0 +1,11 @@
+item	Khoản, thứ, mặt hàng	/ˈaɪtəm/	A windproof jacket is an essential item of clothing for hillwalking.	n	
+modify	Điều chỉnh, sửa đổi	/ˈmɑːdɪfaɪ/	It is possible to modify the keyboard to suit the individual user.	v	
+mosquito repellent	Chất đuổi muỗi	/məˈskiːtəʊ rɪˈpelənt/	The mosquito repellent product of this company is very effective.	phrase	
+practice	Thông lệ, hoạt động (doanh nghiệp)	/ˈpræktɪs/	Everyone knows it is good business practice to listen to your customers.	n	
+provider	Người cung cấp, nhà cung cấp	/prəˈvaɪdər/	You should contact your network provider to get a PUK code to unlock the handset.	n	
+register	Đăng kí	/ˈredʒɪstər/	You have to register a brand name for your new product to protect it.	v	
+sample	Hàng mẫu, mẫu	/ˈsæmpl/	The company gave away one million samples of the new product to customers.	n	
+sketch	Bức vẽ phác	/sketʃ/	The sketches for products need to be presented in front of the Board of Directors in advance.	n	
+systematically	Một cách hệ thống	/ˌsɪstəˈmætɪkli/	R&D department is responsible for developing a new product systematically.	adv	
+uniformly	Đều, giống nhau, thống nhất	/ˈjuːnɪfɔːrmli/	The products are checked to make sure they are uniformly packaged before they leave the factory.	adv	
+wrinkle	Vết nhăn, nếp nhăn (da mặt, vải)	/ˈrɪŋkl/	A wrinkle in the finish can be repaired more economically before a sale than after.	n	

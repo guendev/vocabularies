@@ -1,0 +1,11 @@
+admirable	Đáng khâm phục, đáng ngưỡng mộ	/ˈædmərəbl/	The artist has done an admirable and phenomenal job in combining all of these wonderful colors.	adj	
+admire	Ngưỡng mộ, hâm mộ	/ədˈmaɪər/	I admire the effective use of colors in her paintings.	v	
+ancient	Cổ xưa, cũ	/ˈeɪnʃənt/	John appears to have had a remarkable enthusiasm for ancient art.	adj	
+collection	Sự sưu tập, sự thu thập	/kəˈlekʃn/	We make software products for data collection.	n	
+coordinate	Phối hợp	/kəʊˈɔːrdɪneɪt/	The colors of the flowers were ordered to coordinate with the colors in the corporate logo.	v	
+essentially	Về bản chất, về cơ bản	/ɪˈsenʃəli/	Although she made intermittent movie appearances, she was essentially a stage actress.	adv	
+expertise	Sự chuyên môn, tinh thông (kĩ năng, kiến thức)	/ˌekspɜːrˈtiːz/	Julio will bring his vast expertise to the museum.	n	
+inspiration	Cảm hứng	/ˌɪnspəˈreɪʃn/	Both poets drew their inspiration from the countryside.	n	
+integral	Không thể thiếu, quan trọng	/ˈɪntɪɡrəl/	Arts is an integral part of our school's curriculum.	adj	
+schedule	Lịch trình, thời gian biểu	/ˈskedʒuːl/	Several local artists are featured on the gallery's winter schedule.	n	
+urge	Hối thúc, thúc giục, thúc đẩy	/ɜːrdʒ/	I would urge everyone to just pick up a pencil and draw; it's very relaxing.	v	

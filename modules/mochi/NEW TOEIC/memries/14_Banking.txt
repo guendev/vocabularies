@@ -1,0 +1,12 @@
+counter	Quầy (thu tiền, giao dịch)	/ˈkaʊntər/	Electronic banking may make over-the-counter transactions obsolete.	n	
+transaction	Giao dịch	/trænˈzækʃn/	You can call your bank and perform a transaction using your mobile phone.	n	
+asset	Tài sản (công ty có thể dùng để trả nợ)	/ˈæset/	The company's assets are periodically revalued.	n	
+evaluate	Đánh giá	/ɪˈvæljueɪt/	The lenders evaluated our credibility and decided to loan us money.	v	
+assess	Định giá	/əˈses/	The banker came to assess her property this morning.	v	
+accept	Chấp nhận, nhận, chấp thuận	/əkˈsept/	The bank refused to accept any mortgage on John's land.	v	
+acceptable	Chấp nhận được, có thể chấp thuận	/əkˈseptəbl/	An offer that is acceptable to the chairman of the board might still be voted down by the board members.	adj	
+adjacent	Gần kề, kế liền, sát ngay	/əˈdʒeɪsnt/	The bank already owns several building nearby, plus much of the adjacent site, which includes the Landmark tower.	adj	
+apprehensive	Sợ hãi, e sợ	/ˌæprɪˈhensɪv/	The mortgage lender was apprehensive about the company's ability to pay.	adj	
+exchange	Trao đổi	/ɪksˈtʃeɪndʒ/	You can exchange your American money for Japanese money at the nearest branch of the bank.	v	
+profit	Lợi nhuận	/ˈprɑːfɪt/	The main target of a commercial bank is to maximize its profit.	n	
+minimum	Mức tối thiểu	/ˈmɪnɪməm/	If your bank account balance falls below the minimum, you'll get a $5 service charge.	n	

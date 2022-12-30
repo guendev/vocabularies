@@ -1,0 +1,12 @@
+industrial	Thuộc công nghiệp	/ɪnˈdʌstriəl/	The developers dealt with the problem in the time-honoured way, burying the industrial waste in landfill sites.	adj	
+manufacture	Sự sản xuất, sự chế tạo	/ˌmænjuˈfæktʃər/	Organic chemicals are used in the manufacture of plastics, fibres, solvents and paints.	n	
+adhere to	Tuân theo, bám theo	/ədˈhɪr tuː/	New manufacturing must adhere to world's newest standards.	phrV	
+advanced	Có tính tiến bộ, tiên tiến	/ədˈvænst/	US manufacturing industry applies many advanced techniques.	adj	
+balance	Sự cân bằng	/ˈbæləns/	Actions need to be done to maintain ecological balance.	n	
+economy	Nền kinh tế, sự tiết kiệm	/ɪˈkɑːnəmi/	Many manufacturing processes have been outsourced to Eastern Europe for reasons of economy.	n	
+automatically	Một cách tự động (máy móc)	/ˌɔːtəˈmætɪkli/	These devices are automatically tested and categorized.	adv	
+avoid	Tránh, né tránh	/əˈvɔɪd/	In order to avoid extra work and waste of supplies, please observe the following guidelines.	v	
+catch up with	Bắt kịp, đuổi kịp với	/kætʃ ʌp wɪð/	Will Western industry ever catch up with Japanese innovations?	phrV	
+exceed	Vượt quá, phóng đại	/ɪkˈsiːd/	Light industry continued to exceed heavy industry in value of output.	v	
+factory	Nhà máy, xí nghiệp, xưởng	/ˈfæktəri/	The factory launched into a large-scale project last year, and now, its estimated profit is about $500,000.	n	
+preservation	Sự bảo quản, sự duy trì	/ˌprezərˈveɪʃn/	World Fish Supply delivers the freshest fish possible thanks to innovative preservation and shipping methods.	n	

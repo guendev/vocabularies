@@ -1,0 +1,10 @@
+meanwhile	Trong lúc đó, trong lúc ấy	/ˈmiːnwaɪl/	The doctor will see you again next week. Meanwhile, you must rest as much as possible.	adv	
+nevertheless	Mặc dù vậy, tuy thế nhưng	/ˌnevərðəˈles/	The news may be unexpected, nevertheless it is true.	adv	
+likewise	Tương tự thế, giống vậy, cũng	/ˈlaɪkwaɪz/	Just water these plants twice a week, and likewise the ones in the bedroom.	adv	
+whereas	Nhưng trái lại, trong khi mà	/ˌwerˈæz/	The old system was fairly complicated whereas the new system is really very simple.	conjunction	
+otherwise	Nếu không thì, trái lại, mặt khác	/ˈʌðərwaɪz/	Shut the window, otherwise it'll get too cold in here.	adv	
+as long as	Miễn là, chỉ cần, với điều kiện là	/æz lɔːŋ æz/	You can use my smartphone as long as you use it carefully.	phrase	
+in case	Trong trường hợp, phòng khi	/ɪn keɪs/	The hospital has a backup generator in case there is a power failure.	phrase	
+furthermore	Hơn nữa, vả lại	/ˌfɜːrðərˈmɔːr/	I don't want to go there, furthermore, I have no time to do so.	adv	
+for instance	Chẳng hạn, ví dụ	/fɔːr ˈɪnstəns/	What would you do, for instance, if you found a member of staff stealing?	phrase	
+according to	Theo như, chiếu theo	/əˈkɔːrdɪŋ tə/	According to a company spokesman, the firm is expected to have sales of more than $3.5 billion this year.	phrase	

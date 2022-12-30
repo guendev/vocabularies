@@ -1,0 +1,626 @@
+[
+  {
+    "text": "aboriginal",
+    "meaning": "nguyên sơ, nguyên thủy"
+  },
+  {
+    "text": "ancestor",
+    "meaning": "tổ tiên"
+  },
+  {
+    "text": "anniversary",
+    "meaning": "lễ kỉ niệm"
+  },
+  {
+    "text": "ceremony",
+    "meaning": "nghi lễ"
+  },
+  {
+    "text": "celebration",
+    "meaning": "sự tổ chức"
+  },
+  {
+    "text": "bicentenary",
+    "meaning": "lễ kỉ niệm cứ 200 năm tổ chức 1 lần"
+  },
+  {
+    "text": "assimilation",
+    "meaning": "sự đồng hóa"
+  },
+  {
+    "text": "bravery",
+    "meaning": "sự dũng cảm"
+  },
+  {
+    "text": "bride",
+    "meaning": "cô dâu"
+  },
+  {
+    "text": "bridegroom",
+    "meaning": "chú rể"
+  },
+  {
+    "text": "conflict",
+    "meaning": "sự xung đột"
+  },
+  {
+    "text": "contract",
+    "meaning": "hợp đồng"
+  },
+  {
+    "text": "contractual",
+    "meaning": "thuộc hợp đồng"
+  },
+  {
+    "text": "conversely",
+    "meaning": "ngược lại"
+  },
+  {
+    "text": "coordinator",
+    "meaning": "người phối hợp"
+  },
+  {
+    "text": "currency",
+    "meaning": "tiền tệ"
+  },
+  {
+    "text": "custom",
+    "meaning": "phong tục"
+  },
+  {
+    "text": "deliberately",
+    "meaning": "1 cách có chủ ý"
+  },
+  {
+    "text": "denounce",
+    "meaning": "tố cáo"
+  },
+  {
+    "text": "depravity",
+    "meaning": "sự trụy lạc"
+  },
+  {
+    "text": "dismiss",
+    "meaning": "sa thải"
+  },
+  {
+    "text": "dismissal",
+    "meaning": "sự sa thải"
+  },
+  {
+    "text": "dismissive",
+    "meaning": "gạt bỏ, xem thường"
+  },
+  {
+    "text": "diversity",
+    "meaning": "sự đa dạng"
+  },
+  {
+    "text": "diverse",
+    "meaning": "đa dạng"
+  },
+  {
+    "text": "diversify",
+    "meaning": "đa dạng hóa"
+  },
+  {
+    "text": "diversification",
+    "meaning": "sự đa dạng hóa"
+  },
+  {
+    "text": "extremely",
+    "meaning": "cực kì"
+  },
+  {
+    "text": "completely",
+    "meaning": "hoàn toàn"
+  },
+  {
+    "text": "tremendously",
+    "meaning": "khủng khiếp, ghê gớm"
+  },
+  {
+    "text": "dramatically",
+    "meaning": "đột ngột"
+  },
+  {
+    "text": "fate",
+    "meaning": "vận mệnh"
+  },
+  {
+    "text": "federation",
+    "meaning": "liên đoàn"
+  },
+  {
+    "text": "folktale",
+    "meaning": "truyện dân gian"
+  },
+  {
+    "text": "heritage",
+    "meaning": "di sản"
+  },
+  {
+    "text": "hilarious",
+    "meaning": "vui nhộn"
+  },
+  {
+    "text": "homophone",
+    "meaning": "từ đồng âm"
+  },
+  {
+    "text": "identify",
+    "meaning": "nhận diện"
+  },
+  {
+    "text": "identification",
+    "meaning": "sự đồng nhất hóa"
+  },
+  {
+    "text": "identical",
+    "meaning": "giống nhau"
+  },
+  {
+    "text": "identity",
+    "meaning": "tính đồng nhất"
+  },
+  {
+    "text": "incense",
+    "meaning": "nhang, hương"
+  },
+  {
+    "text": "indigenous",
+    "meaning": "bản địa"
+  },
+  {
+    "text": "integration",
+    "meaning": "sự hội nhập"
+  },
+  {
+    "text": "isolation",
+    "meaning": "sự cách ly"
+  },
+  {
+    "text": "majority",
+    "meaning": "đa số"
+  },
+  {
+    "text": "minority",
+    "meaning": "thiểu số"
+  },
+  {
+    "text": "marriage",
+    "meaning": "hôn nhân"
+  },
+  {
+    "text": "marital",
+    "meaning": "thuộc hôn nhân"
+  },
+  {
+    "text": "marriageable",
+    "meaning": "có thể kết hôn"
+  },
+  {
+    "text": "married",
+    "meaning": "đã kết hôn"
+  },
+  {
+    "text": "misinterpret",
+    "meaning": "hiểu sai"
+  },
+  {
+    "text": "mystery",
+    "meaning": "huyền bí"
+  },
+  {
+    "text": "no-go",
+    "meaning": "tình trạng bế tắc"
+  },
+  {
+    "text": "pamper",
+    "meaning": "nuông chiều"
+  },
+  {
+    "text": "patriotism",
+    "meaning": "chủ nghĩa yêu nước"
+  },
+  {
+    "text": "perception",
+    "meaning": "sự nhận thức"
+  },
+  {
+    "text": "perceive",
+    "meaning": "nhận thức"
+  },
+  {
+    "text": "prestige",
+    "meaning": "thanh thế, uy thế"
+  },
+  {
+    "text": "prevalence",
+    "meaning": "sự phổ biến"
+  },
+  {
+    "text": "privilege",
+    "meaning": "đặc quyền, đặc ân"
+  },
+  {
+    "text": "racism",
+    "meaning": "chủ nghĩa phân biệt chủng tộc"
+  },
+  {
+    "text": "racial",
+    "meaning": "thuộc chủng tộc"
+  },
+  {
+    "text": "religion",
+    "meaning": "tôn giáo"
+  },
+  {
+    "text": "religious",
+    "meaning": "thuộc về tôn giáo"
+  },
+  {
+    "text": "restrain",
+    "meaning": "kiềm chế"
+  },
+  {
+    "text": "revival",
+    "meaning": "sự hồi phục"
+  },
+  {
+    "text": "solidarity",
+    "meaning": "sự đoàn kết"
+  },
+  {
+    "text": "superstition",
+    "meaning": "sự mê tín dị đoan"
+  },
+  {
+    "text": "superstitious",
+    "meaning": "mê tín dị đoan"
+  },
+  {
+    "text": "symbol",
+    "meaning": "biểu tượng"
+  },
+  {
+    "text": "symbolize",
+    "meaning": "biểu tượng hóa"
+  },
+  {
+    "text": "symbolism",
+    "meaning": "chủ nghĩa tượng trưng"
+  },
+  {
+    "text": "symbolic",
+    "meaning": "tượng trưng"
+  },
+  {
+    "text": "synthesis",
+    "meaning": "sự tổng hợp"
+  },
+  {
+    "text": "unhygienic",
+    "meaning": "không hợp vệ sinh"
+  },
+  {
+    "text": "well-established",
+    "meaning": "lâu đời, đứng vững"
+  },
+  {
+    "text": "well-advised",
+    "meaning": "khôn ngoan(phô trương uy thế và sức mạnh để khoe khoang hoặc đe doạ.)"
+  },
+  {
+    "text": "well-built",
+    "meaning": "cường tráng, lực lưỡng"
+  },
+  {
+    "text": "well-balanced",
+    "meaning": "đúng mực, điều độ"
+  },
+  {
+    "text": "against the law",
+    "meaning": "phạm luật"
+  },
+  {
+    "text": "within the law",
+    "meaning": "đúng luật"
+  },
+  {
+    "text": "above the law",
+    "meaning": "ngoài vòng pháp luật"
+  },
+  {
+    "text": "by law",
+    "meaning": "theo luật"
+  },
+  {
+    "text": "lay down the law",
+    "meaning": "diễu võ giương oai (phô trương uy thế và sức mạnh để khoe khoang hoặc đe doạ.)"
+  },
+  {
+    "text": "approve/dissaprove of",
+    "meaning": "đồng tình/phản đối"
+  },
+  {
+    "text": "at the right time = as regular as clockwork = on the dot = on time",
+    "meaning": "đúng giờ"
+  },
+  {
+    "text": "beard the lion in one's den",
+    "meaning": "chạm chán ai đó"
+  },
+  {
+    "text": "close to the bone",
+    "meaning": "xúc phạm"
+  },
+  {
+    "text": "come into play = bring sth into play",
+    "meaning": "có tác dụng"
+  },
+  {
+    "text": "down to the write",
+    "meaning": "vào phút cuối"
+  },
+  {
+    "text": "for fear of sth/doing sth",
+    "meaning": "vì sợ cái gì"
+  },
+  {
+    "text": "get rid of = remove",
+    "meaning": "loại bỏ"
+  },
+  {
+    "text": "face up to",
+    "meaning": "đối mặt với"
+  },
+  {
+    "text": "get over",
+    "meaning": "vượt qua"
+  },
+  {
+    "text": "wipe out",
+    "meaning": "xóa bỏ, phá hủy"
+  },
+  {
+    "text": "let go of = give up",
+    "meaning": "từ bỏ"
+  },
+  {
+    "text": "loss and grief = sadness",
+    "meaning": "buồn rầu"
+  },
+  {
+    "text": "make a decision on sth",
+    "meaning": "quyết định về"
+  },
+  {
+    "text": "object to/have objection to",
+    "meaning": "phản đối"
+  },
+  {
+    "text": "on the flip side = on the other hand",
+    "meaning": "mặt khác"
+  },
+  {
+    "text": "prior to sth = before a particular time or event",
+    "meaning": "trước 1 thời gian đặc biệt nào đó"
+  },
+  {
+    "text": "scold sb for doing sth",
+    "meaning": "mắng ai đó vì đã làm gì sai"
+  },
+  {
+    "text": "sense of self",
+    "meaning": "nhận thức về bản thân"
+  },
+  {
+    "text": "so so",
+    "meaning": "tàm tạm"
+  },
+  {
+    "text": "the tip of the iceberg",
+    "meaning": "chỉ là một phần nhỏ"
+  },
+  {
+    "text": "Tie the knot = get married",
+    "meaning": "kết hôn"
+  },
+  {
+    "text": "assignee",
+    "meaning": "người được ủy nhiệm, người được ủy quyền"
+  },
+  {
+    "text": "counterpart",
+    "meaning": "bản sao"
+  },
+  {
+    "text": "way-out",
+    "meaning": "kì lạ"
+  },
+  {
+    "text": "typically",
+    "meaning": "tiêu biểu"
+  },
+  {
+    "text": "abortion",
+    "meaning": "sự nạo phá thai"
+  },
+  {
+    "text": "honor",
+    "meaning": "kính trọng (ai đó)"
+  },
+  {
+    "text": "linguistic",
+    "meaning": "thuộc ngôn ngữ"
+  },
+  {
+    "text": "institution",
+    "meaning": "học viện"
+  },
+  {
+    "text": "sacred",
+    "meaning": "thần thánh"
+  },
+  {
+    "text": "ethicize",
+    "meaning": "làm cho hợp với đạo đức"
+  },
+  {
+    "text": "transact",
+    "meaning": "làm, thực hiện, tiến hành"
+  },
+  {
+    "text": "bridesmade",
+    "meaning": "phù dâu"
+  },
+  {
+    "text": "daughter-in-law",
+    "meaning": "con dâu"
+  },
+  {
+    "text": "son-in-law",
+    "meaning": "con rể"
+  },
+  {
+    "text": "verification",
+    "meaning": "sự thẩm tra, xác minh"
+  },
+  {
+    "text": "inject",
+    "meaning": "tiêm"
+  },
+  {
+    "text": "intergrate",
+    "meaning": "tích hợp"
+  },
+  {
+    "text": "merge",
+    "meaning": "hợp nhất"
+  },
+  {
+    "text": "heroism",
+    "meaning": "chủ nghĩa anh hùng"
+  },
+  {
+    "text": "justice",
+    "meaning": "công bằng"
+  },
+  {
+    "text": "loyalty",
+    "meaning": "trung thành"
+  },
+  {
+    "text": "intimidating",
+    "meaning": "đáng sợ"
+  },
+  {
+    "text": "mismanage",
+    "meaning": "quản lý tệ"
+  },
+  {
+    "text": "misreport",
+    "meaning": "báo cáo sai"
+  },
+  {
+    "text": "unintentionally",
+    "meaning": "vô tình"
+  },
+  {
+    "text": "randomly",
+    "meaning": "ngẫu nhiên"
+  },
+  {
+    "text": "deceitfulness",
+    "meaning": "gian dối"
+  },
+  {
+    "text": "faithfulness",
+    "meaning": "chung thủy"
+  },
+  {
+    "text": "discrimination",
+    "meaning": "phân biệt đối xử"
+  },
+  {
+    "text": "offensive",
+    "meaning": "tấn công"
+  },
+  {
+    "text": "provoke",
+    "meaning": "kích động"
+  },
+  {
+    "text": "dissastìaction",
+    "meaning": "phân tán"
+  },
+  {
+    "text": "modesty",
+    "meaning": "sự khiêm tốn"
+  },
+  {
+    "text": "alienation",
+    "meaning": "xa lánh"
+  },
+  {
+    "text": "spirited",
+    "meaning": "đầy khí thế"
+  },
+  {
+    "text": "deep-seated",
+    "meaning": "a.sâu sắc"
+  },
+  {
+    "text": "deep-rooted",
+    "meaning": "a.lâu đời"
+  },
+  {
+    "text": "deep-pocketed",
+    "meaning": "a. dư dả"
+  },
+  {
+    "text": "deep-fried",
+    "meaning": "a. chiên giòn"
+  },
+  {
+    "text": "utmost",
+    "meaning": "hết sức, tột bậc"
+  },
+  {
+    "text": "sacrifice",
+    "meaning": "hi sinh"
+  },
+  {
+    "text": "adjusting",
+    "meaning": "thích nghi"
+  },
+  {
+    "text": "way out",
+    "meaning": "kì lạ"
+  },
+  {
+    "text": "attitude",
+    "meaning": "thái độ"
+  },
+  {
+    "text": "indentìy oneself with",
+    "meaning": "liên hệ bản thân"
+  },
+  {
+    "text": "confusing",
+    "meaning": "khó hiểu"
+  },
+  {
+    "text": "sea breams",
+    "meaning": "cá trám biển"
+  },
+  {
+    "text": "affair",
+    "meaning": "việc"
+  },
+  {
+    "text": "go all out",
+    "meaning": "tổ chức hoành tráng"
+  }
+]

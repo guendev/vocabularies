@@ -1,0 +1,10 @@
+account	Tài khoản, kế toán, sổ sách	/əˈkaʊnt/	Her major responsibility is to keep the accounts up to date.	n	
+account for	Giải thích cho, chiếm	/əˈkaʊnt fər/	The Japanese market accounts for 35 per cent of the company's revenue.	phrV	
+accountant	Kế toán viên	/əˈkaʊntənt/	She is a tax accountant at ABC Corporation.	n	
+accounting department	Phòng kế toán	/əˈkaʊntɪŋ dɪˈpɑ:rtmənt/	My mother is the head of the Accounting department.	phrase	
+audit	Kiểm toán	/ˈɔːdɪt/	Once a year, Tarrin Industrial Supply audits the accounts of all of its factories.	v	
+be aware of	Biết được, nhận biết được	/bi əˈwer əv/	All the accountants should be aware of the latest changes in taxation.	phrase	
+examine	Xem xét, thẩm tra, khảo sát, nghiên cứu	/ɪɡˈzæmɪn/	An accountant will examine the company's books and then inform if there's any unusual thing.	v	
+external	Bên ngoài, ở ngoài	/ɪkˈstɜːrnl/	The accountant prepares information for both internal and external use.	adj	
+savings account	Tài khoản tiết kiệm	/ˈseɪvɪŋz əkaʊnt/	To transfer money to your savings account, you may move either from your primary checking account, or from account at another bank.	n	
+store	Lưu trữ, cất trữ	/stɔːr/	We do not have adequate space to store these documents and accounting books.	v	

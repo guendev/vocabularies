@@ -1,0 +1,12 @@
+internal	Nội bộ, bên trong	/ɪnˈtɜːrnl/	The bank will conduct an internal investigation.	adj	
+make an appointment	Đặt lịch hẹn	/meɪk ən əˈpɔɪntmənt/	She made an appointment with his dentist for two o'clock.	phrase	
+overcrowded	Quá đông, quá tải	/ˌəʊvəˈkraʊdɪd/	All the hospitals in China are overcrowded due to the deadly virus.	adj	
+patient	Bệnh nhân	/ˈpeɪʃnt/	After considering the patient's symptoms and looking at her test results, the doctor diagnosed the lump as benign.	n	
+permit	Cho phép	/pərˈmɪt/	Victims are not permitted to go out of the hospital.	v	
+professional	Chuyên nghiệp	/prəˈfeʃənl/	In addition to professional clinical services, the hospital may choose to contract for support services from the physician practice.	adj	
+recovery	Sự bình phục (sức khỏe), hồi phục (kinh tế)	/rɪˈkʌvəri/	My father has made a full recovery from the operation.	n	
+security	Sự an toàn, sự an ninh	/sɪˈkjʊrəti/	To keep staff, patients and visitors safe, hospitals use a range of security measures, including the use of CCTV cameras.	n	
+senior	Cao cấp, cấp trên, lớn tuổi hơn	/ˈsiːniər/	The senior physician carried his instruments in a black leather bag.	adj	
+set up	Thiết lập, xây dựng, chuẩn bị sẵn sàng	/set ʌp/	The hospital has set up a special fund to buy new medical equipments.	phrV	
+surgery	Sự phẫu thuật, sự mổ	/ˈsɜːrdʒəri/	Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you.	n	
+therapy	Sự trị liệu, điều trị	/ˈθerəpi/	With physical therapy, you should eventually be able to walk again.	n	

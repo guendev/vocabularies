@@ -1,0 +1,12 @@
+admission	Sự cho vào, nhận vào (bệnh viện, trường học)	/ədˈmɪʃn/	The cost for each workshop is $10 in addition to the regular admission fee and includes basic art supplies.	n	
+awareness	Sự nhận thức	/əˈwernəs/	In the event, there are many activities designed to promote health awareness in our community.	n	
+hall	Hội trường, phòng/tòa nhà lớn	/hɔːl/	Meals are available for purchase at locations throughout the conference hall.	n	
+honorable	Đáng tôn kính, đáng kính trọng, có danh dự	/ˈɑːnərəbl/	The host proposed a toast to their honorable guests.	adj	
+interactive	Có tính tương tác	/ˌɪntərˈæktɪv/	The book fair attendees will be able to participate in interactive activities.	adj	
+nominate	Đề cử, giới thiệu	/ˈnɑːmɪneɪt/	You can nominate a member of team for the award by completing the online nomination form.	v	
+obtain	Đạt được, lấy được	/əbˈteɪn/	Further information of this event can be obtained on our Website.	v	
+overlap	Gối lên, chồng chéo	/ˌəʊvərˈlæp/	Since there are overlapping workshops, participants will have to select which one most appeals to them.	v	
+sponsor	Tài trợ, bảo trợ	/ˈspɑːnsər/	This event has been mainly sponsored by Apple corporation.	v	
+sponsorship	Sự tài trợ, tiền tài trợ	/ˈspɑːnsərʃɪp/	The project needs to raise $8 million in sponsorship.	n	
+take part in	Tham gia vào	/teɪk pɑ:rt ɪn/	He often takes part in business conferences in Hanoi.	phrase	
+theme	Chủ đề	/θiːm/	This year’s theme at the annual Behavioral Conference in Texas is cyberbullying since this has become such a major problem recently.	n	

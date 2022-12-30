@@ -1,0 +1,12 @@
+situation	Tình hình, tình trạng	/ˌsɪtʃuˈeɪʃn/	The two company will meet next week to try to defuse the situation.	n	
+commit	Cam kết	/kəˈmɪt/	Carefully check out arrangements before committing yourself.	v	
+compromise	Sự thỏa hiệp	/ˈkɑːmprəmaɪz/	The conference ended with a compromise of both sides.	n	
+counterpart	Bên tương ứng, người đồng cấp, đối tác	/ˈkaʊntərpɑːrt/	The Foreign Minister held talks with his Chinese counterpart about free trade agreement.	n	
+lengthy	Dài dòng, rất dài (kích thước, thời gian)	/ˈleŋkθi/	Lengthy negotiations must take place before any agreement can be reached.	adj	
+partnership	Sự hợp tác, cộng tác	/ˈpɑːrtnərʃɪp/	He developed his own program in partnership with an American expert.	n	
+propose	Đề nghị, đề xuất, đưa ra	/prəˈpəʊz/	John proposes to sign this contract with the MKZ company immediately.	v	
+pull out	Kéo ra, rời khỏi, rút khỏi	/pʊl aʊt/	The week before the deal was supposed to close, fifteen Japanese banks made a move to pull out.	phrV	
+quote	Trích dẫn, trích lời	/kwəʊt/	He quoted a passage from the minister's speech.	v	
+reconcile	Hòa giải, làm cho hòa hợp	/ˈrekənsaɪl/	Negotiators must now work out how to reconcile these demands with American demands for access.	v	
+reject	Khước từ, bác bỏ, từ chối	/rɪˈdʒekt/	The Prime Minister rejected any idea of reforming the economic system.	v	
+seek	Cố gắng	/siːk/	We seek to improve relations between our two countries.	v	

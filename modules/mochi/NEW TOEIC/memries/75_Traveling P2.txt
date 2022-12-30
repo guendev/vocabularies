@@ -1,0 +1,11 @@
+location	Địa điểm, việc định vị	/ləʊˈkeɪʃn/	The newly-married couple bought a tour and went to a secret location for their honeymoon.	n	
+navigate	Tìm hướng đi, định hướng	/ˈnævɪɡeɪt/	There weren't any road signs to help us navigate through the maze of one-way streets.	v	
+offset	Bù lại, đền bù, bù đắp	/ˈɔːfset/	By reducing her transportation costs in the United States, she offset the cost of getting to other countries.	v	
+orient	Định vị	/ˈɔːrient/	The mountaineers found it hard to orient themselves in the fog.	v	
+peak	Đỉnh, đỉnh cao	/piːk/	We looked up at the rocky peaks towering above us.	n	
+preclude	Ngăn ngừa, ngăn chặn	/prɪˈkluːd/	The terrible rainstorm precludes us from traveling any further.	v	
+receptionist	Lễ tân, nhân viên tiếp tân	/rɪˈsepʃənɪst/	Visitors should inform the receptionist of their arrival.	n	
+remainder	Thứ còn lại, số dư	/rɪˈmeɪndər/	It rained the first day but the remainder of the trip was fine.	n	
+return	Trở lại, quay lại	/rɪˈtɜːrn/	She left South Africa at the age of 15 and has never returned.	v	
+trend	Xu hướng	/trend/	Backpacking has became a new trend over the past few years.	n	
+venue	Địa điểm	/ˈvenjuː/	Ba Na Hill will soon attain the status of one of the most popular entertainment venues in Da Nang city.	n	

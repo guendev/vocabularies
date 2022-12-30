@@ -1,0 +1,9 @@
+approve	Tán thành, đồng ý	/əˈpruːv/	The survey showed that 32% of respondents approve, 54% disapprove and the rest are undecided.	v	
+discuss	Bàn luận, thảo luận	/dɪˈskʌs/	I'd planned to talk to the Millers later today, so I can discuss the budget with them then.	v	
+expect	Trông đợi, kỳ vọng	/ɪkˈspekt/	Experts expect the company to announce growth of at least 10 per cent.	v	
+focus	Tập trung, làm tụ vào	/ˈfəʊkəs/	This lovely art museum focuses on works by local artists.	v	
+imply	Ngụ ý, ẩn ý	/ɪmˈplaɪ/	The travel agent implied that our hotel was not in the safest part of the city.	v	
+indicate	Chỉ ra, ra dấu	/ˈɪndɪkeɪt/	The financial forecast indicates a deficit in the next quarter.	v	
+involve	Bao gồm, cần phải có, kéo theo	/ɪnˈvɑːlv/	The development process involves a considerable investment of time and money.	v	
+mention	Kể đến, đề cập	/ˈmenʃn/	Life was suddenly full of possibilities, not to mention a few unexpected surprises.	v	
+notify	Thông báo, cho biết	/ˈnəʊtɪfaɪ/	Please notify us when you arrive, so that we'll be ready.	v	

@@ -1,0 +1,12 @@
+warranty	Sự bảo hành	/ˈwɔːrənti/	The warranty covers the car mechanically for a year.	n	
+assurance	Sự đảm bảo, cam đoan	/əˈʃʊrəns/	The sales associate gave his assurance that the missing keyboard would be replaced the next day.	n	
+extend	Mở rộng, kéo dài, gia hạn	/ɪkˈstend/	Only about 20% of the products covered by an extended warranty are ever brought in for repair, the agency says.	v	
+liability	Trách nhiệm, nghĩa vụ	/ˌlaɪəˈbɪləti/	The company cannot accept liability for any damage caused by natural disasters.	n	
+disassemble	Tháo ra, tháo rời, tách rời	/ˌdɪsəˈsembl/	Once a month, disassemble the shaver and clean the internal portions.	v	
+fulfil	Hoàn thành, lấp đầy, làm thỏa mãn	/fʊlˈfɪl/	The commission established certain requirements to ensure that the manufacturers fulfil warranty obligations.	v	
+implement	Thi hành, thực hiện, thực thi	/ˈɪmplɪment/	The company will implement a new warranty policy starting from next month.	v	
+legal	Thuộc pháp luật, hợp pháp	/ˈliːɡl/	The terms of the warranty divulge the legal requirement that the manufacturer has to the consumer.	adj	
+manual	Bản hướng dẫn sử dụng	/ˈmænjuəl/	Complete instructions can be found in the owner's manual.	n	
+purpose	Mục đích	/ˈpɜːrpəs/	Please retain invoices for a minimum of one year for warranty purposes.	n	
+repair	Sự sửa chữa, tu sửa	/rɪˈper/	They agreed to pay for the repair of any damage done.	n	
+void the warranty	Làm mất hiệu lực bảo hành	/vɔɪd ðə ˈwɔːrənti/	Use of any other charger may void the warranty.	phrase	

@@ -1,0 +1,10 @@
+wealthy	Giàu có	/ˈwelθi/	We should levy a heavy tax on the wealthy men.	adj	
+earnings	Thu nhập, tiền lương, lợi nhuận	/ˈɜːrnɪŋz/	She is claiming compensation for loss of earnings.	n	
+salary	Tiền lương, mức lương	/ˈsæləri/	An international qualification guarantees a higher salary.	n	
+response	Sự phản hồi, phản ứng lại	/rɪˈspɑːns/	Management have granted a ten percent pay rise in response to union pressure.	n	
+scale	Thang, tỉ lệ	/skeɪl/	The salary scale is ensured so that you get more money each year.	n	
+absence	Sự vắng mặt, nghỉ	/ˈæbsəns/	To ask for long-term sickness absence, employees must include a doctor's note to certify.	n	
+straightforward	Dễ làm, dễ hiểu	/ˌstreɪtˈfɔːrwərd/	Determining an executive's salary is not a straightforward task.	adj	
+strike	Đình công	/straɪk/	The union has voted to strike for a pay increase of 6%.	v	
+waste	Sự lãng phí	/weɪst/	She's been unemployed for two years and it's such a waste of her talents.	n	
+allowance	Hạn mức, mức cho phép	/əˈlaʊəns/	The luggage allowance for most flights is 20 kilos.	n	

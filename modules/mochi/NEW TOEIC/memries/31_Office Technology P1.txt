@@ -1,0 +1,12 @@
+network	Hệ thống mạng lưới	/ˈnetwɜːrk/	Europe's mobile phone networks are controlled by five dominant players.	n	
+feature	Nét đặc trưng, điều đặc biệt	/ˈfiːtʃər/	The feature we were most impressed with is its battery: it can run for up to ten hours, which is much longer than the other phones.	n	
+hardware	Phần cứng	/ˈhɑːrdwer/	Grid computing systems share hardware resources to work on projects.	n	
+software	Phần mềm	/ˈsɔːftwer/	The software enables you to access the Internet in seconds.	n	
+access	Tiếp cận, truy cập	/ˈækses/	All employees can access real-time data.	v	
+accessible	Có thể tiếp cận/truy cập, dễ hiểu	/əkˈsesəbl/	The book has succeeded in making philosophy accessible to a wider audience.	adj	
+multiple	Nhiều, phức tạp	/ˈmʌltɪpl/	Windows allows a computer user to execute multiple programs simultaneously.	adj	
+select	Lựa chọn	/sɪˈlekt/	It's difficult to select proper coding language for this program.	v	
+separately	Tách ra, không cùng nhau	/ˈseprətli/	The software is sold separately from the hardware.	adv	
+take advantage of	Tận dụng lợi thế	/teɪk ədˈvæntɪdʒ əv/	Firms that fail to take advantage of the new technology will go out of business.	phrase	
+valid	Có hiệu lực, hợp lệ	/ˈvælɪd/	To gain access to the computer lab, all users must have a valid ID.	adj	
+verify	Xác thực, kiểm tra lại	/ˈverɪfaɪ/	Please verify that your password was entered correctly.	v	

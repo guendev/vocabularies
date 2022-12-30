@@ -1,0 +1,12 @@
+conducive	Có ích, có lợi, tạo điều kiện thuận lợi	null	The school provides an conducive environment to learning for children.	adj	
+designate	Chỉ định, bổ nhiệm	/ˈdezɪɡneɪt/	The school has been designated as a specialist science academy.	v	
+donate	Quyên góp, cho tặng, hiến	/ˈdəʊneɪt/	Some state schools follow the example of private schools in asking parents to donate money.	v	
+enrol	Đăng ký, kết nạp	/ɪnˈrəʊl/	For more information about our course offerings, or to enrol online, visit our Web site.	v	
+optional	Tùy ý, không bắt buộc, tự chọn	/ˈɑːpʃənl/	Students choose from optional subjects in addition to the core curriculum.	adj	
+preparation	Sự sửa soạn, sự chuẩn bị	/ˌprepəˈreɪʃn/	Students have to do a year's preparation before they start the proper degree course.	n	
+include	Bao gồm, tính cả	/ɪnˈkluːd/	The bill includes tax and service.	v	
+interaction	Sự tương tác (người với người)	/ˌɪntərˈækʃn/	These activities are designed to foster interaction between students during lessons.	n	
+primarily	Chủ yếu	/praɪˈmerəli/	We create an application that is primarily designed for English learners.	adv	
+progress	Tiến bộ, tiến lên, tiến tới	/prəˈɡres/	Students who achieve an acceptable standard will progress to higher degrees.	v	
+strengthen	Làm mạnh hơn, củng cố	/ˈstreŋkθn/	This training course is designed to  strengthen your current computer skills.	v	
+flexibility	Tính linh hoạt	/ˌfleksəˈbɪləti/	The flexibility of distance learning would be particularly suited to busy managers.	n	

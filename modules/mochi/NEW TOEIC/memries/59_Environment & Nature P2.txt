@@ -1,0 +1,11 @@
+delegate	Người được bầu chọn ra, đại biểu	/ˈdelɪɡət/	Congress delegates rejected the proposals in conference.	n	
+influential	Có ảnh hưởng	/ˌɪnfluˈenʃl/	She is a famous environmentalist, the author of three very influential books.	adj	
+initiative	Sáng kiến, sự khởi xướng đi trước	/ɪˈnɪʃətɪv/	She came up with an initiative for environmental problem caused by silk factory in the village.	n	
+initiate	Bắt đầu, khởi đầu, đề xướng	/ɪˈnɪʃieɪt/	The government has initiated a program to study on how to reduce pollution from heavy vehicle fleets.	v	
+on account of	Bởi vì, vì nguyên nhân	/ɑːn əˈkaʊnt əv/	The marsh is an area of great scientific interest on account of its wild flowers.	phrase	
+predict	Tiên đoán, dự đoán, dự báo	/prɪˈdɪkt/	We can predict changes in climate with a surprising degree of accuracy.	v	
+predictable	Có thể đoán trước được, có thể dự báo	/prɪˈdɪktəbl/	The weather changes daily here in Da Nang city, but remains predictable.	adj	
+scrutiny	Sự kiểm tra kỹ lưỡng, sự nghiên cứu cẩn thận	/ˈskruːtəni/	The company has come under intense scrutiny because of its environmental record.	n	
+stunning	Tuyệt vời, đáng kinh ngạc	/ˈstʌnɪŋ/	With a stunning view over the bay of Saint Tropez, the Avevo Botanical Garden is a beautiful place to learn about the region's diverse plant life.	adj	
+take responsibility for	Nhận lấy trách nhiệm	/teɪk rɪˌspɑːnsəˈbɪləti fɔːr/	Every individual should take responsibility for participating to protect environment.	phrase	
+botanical garden	Vườn bách thảo	/bəˌtænɪkl ˈɡɑːrdn/	Zoos, botanical gardens and some circuses claim they are serving conservation by breeding animals or plants in captivity.	n	

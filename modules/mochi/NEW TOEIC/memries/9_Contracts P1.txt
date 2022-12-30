@@ -1,0 +1,11 @@
+agreement	Hợp đồng, bản thỏa thuận	/əˈɡriːmənt/
+	LG Company has just signed a lease agreement with the law firm.	n	
+terms	Điều khoản, điều kiện	/tɜːrmz/	The agreement specifies the terms of warranty.	n	
+clarify	Làm rõ	/ˈklærəfaɪ/	You need to clarify the information in this contract.	v	
+abide by	Tuân theo (luật lệ, hợp đồng)	/əˈbaɪd baɪ/	The two parties agreed to abide by the judge's decision.	phrV	
+detail	Chi tiết, tiểu tiết	/ˈdiːteɪl/	Give me all the details of the contract that they sent this morning.	n	
+file	Sắp xếp (tài liệu)	/faɪl/	The contracts should be filed alphabetically.	v	
+fill out	Điền vào	/fɪl aʊt/	Please fill out the contract in pen and submit it tomorrow with your signing.	phrV	
+obligation	Nghĩa vụ, bổn phận	/ˌɑːblɪˈɡeɪʃn/	Like any other borrowers, local authorities have a contractual obligation to comply with the terms of repayment.	n	
+party	Bên, nhóm, đảng	/ˈpɑːrti/	The contract can be terminated by either party with three months' notice.	n	
+obligated	Buộc phải, bị ràng buộc	/ˈɑːblɪɡeɪtɪd/	The contractor was obligated by the contract to work 40 hours a week.	adj	

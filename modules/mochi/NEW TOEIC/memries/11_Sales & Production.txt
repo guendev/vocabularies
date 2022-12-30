@@ -1,0 +1,12 @@
+consume	Tiêu thụ, tiêu dùng	/kənˈsuːm/	Our high living standards cause our current population to consume 25 percent of the world's oil.	v	
+consumption	Sự tiêu thụ, sự tiêu dùng	/kənˈsʌmpʃn/	Most of our products are made for domestic consumption rather than export.	n	
+regional	Thuộc khu vực, vùng miền	/ˈriːdʒənl/	Last year, Tadaka Computer Solutions ranked third overall in regional earnings.	adj	
+report	Thuật lại, nói lại	/rɪˈpɔːrt/	In reality, shoppers report that they buy the brands they know best and feel most comfortable with, regardless of price.	v	
+resume	Lấy lại, tiếp tục (sau khi dừng/nghỉ)	/rɪˈzuːm/	The company expects to resume production of the vehicle again after a two-month hiatus.	v	
+sell out	Hết hàng, bán hết	/sel aʊt/	We sold out of the T-shirts in the first couple of hours.	phrV	
+sensitive	Nhạy cảm	/ˈsensətɪv/	In the movie, he plays a concerned and sensitive father.	adj	
+significant	Đáng kể, nổi bật	/sɪɡˈnɪfɪkənt/	We are currently experiencing a significant drop in our hair care products.	adj	
+stationery	Văn phòng phẩm	/ˈsteɪʃəneri/	Check with your local stationery supply store for different types of paper.	n	
+turnover	Doanh số	/ˈtɜːrnəʊvər/	Current estimates are that the company's turnover will increase by 7% this year.	n	
+quality	Chất lượng	/ˈkwɑːləti/	When costs are cut, product quality suffers.	n	
+partially	Cục bộ, một phần (thường về thể chất, vật chất)	/ˈpɑːrʃəli/	The books with large print are meant for our partially sighted readers.	adv	

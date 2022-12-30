@@ -1,0 +1,12 @@
+accumulate	Tích lũy, cộng dồn	/əˈkjuːmjəleɪt/	He accumulated a fortune in the music business.	v	
+appliance	Dụng cụ, đồ dùng	/əˈplaɪəns/	Don't plug in an electrical appliance with wet hands - you could get an electric shock.	n	
+due to	Do, bởi vì	/duː tu/	Due to the broken of our oven, we have to go out to eat in the restaurant.	phrase	
+durable	Bền, lâu dài	/ˈdʊrəbl/	Consumers have a tendency to choose durable items when buying furniture.	adj	
+ensure	Bảo đảm, chắc chắn	/ɪnˈʃʊr/	Ensure that the electrical cord is untangled and then plug it into a nearby wall outlet.	v	
+household	Hộ gia đình	/ˈhaʊshəʊld/	The average household spends more on housing than on food.	n	
+housekeeper	Quản gia, người giúp việc	/ˈhaʊskiːpər/	The housekeeper will bring more towels to your room.	n	
+in good condition	Trong tình trạng tốt	/ɪn ɡʊd kənˈdɪʃn/	The inside of the house is in good condition, but externally it's in need of repair.	phrase	
+installation	Sự cài đặt	/ˌɪnstəˈleɪʃn/	You should expect to pay from about $750 for a good water bed, including installation and filling.	n	
+replaceable	Có thể thay thế được	/rɪˈpleɪsəbl/	Avoid disposables by buying toothbrushes and razors with replaceable heads.	adj	
+remarkable	Đáng chú ý, khác thường	/rɪˈmɑːrkəbl/	The workmanship which went into some of these pieces of furniture was truly remarkable.	adj	
+artificial	Giả, nhân tạo	/ˌɑːrtɪˈfɪʃl/	She decorates the house with artificial flowers.	adj	

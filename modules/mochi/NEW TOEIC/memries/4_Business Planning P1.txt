@@ -1,0 +1,12 @@
+strategic	Có tính chiến lược	/strəˈtiːdʒɪk/	These problems demonstrate the importance of strategic planning.	adj	
+strategy	Chiến lược	/ˈstrætədʒi/	The most important strategy for success is to start with a sound business plan.	n	
+acquire	Có được, thu mua được	/əˈkwaɪər/	By this time next year, LV Technology will have acquired two new subsidiaries.	v	
+acquisition	Sự mua lại (công ty)	/ˌækwɪˈzɪʃn/	The group has announced its first overseas acquisition: a successful software company.	n	
+aim	Mục đích, ý định	/eɪm/	The aim of this strategy is to maintain the profit for company.	n	
+associate	Liên tưởng, liên kết (về mặt ý nghĩ)	/əˈsəʊsieɪt/	Many people associate dark clouds with depression and gloom.	v	
+business associate	Người cộng tác, đối tác kinh doanh	/ˈbɪznəs əˈsəʊsieɪt/	He considered the possibility of a buyout of the company with the help of business associates.	phrase	
+allocate	Cấp cho, phân phát	/ˈæləkeɪt/	Our program needs to be allocated more money next year.	v	
+assignment	Nhiệm vụ, bài tập (được giao)	/əˈsaɪnmənt/	Our assignment is to develop a cogent business plan.	n	
+attempt	Sự cố gắng, nỗ lực, sự thử	/əˈtempt/	The attempt to expand the business was a catastrophe for the firm.	n	
+based on	Dựa trên, căn cứ trên	/beɪst ɑːn/	The success of the company was based on its early accomplishments.	phrase	
+prime	Chủ yếu, cơ bản, sơ khai	/praɪm/	Reckless lending was the prime cause of the crisis.	adj	

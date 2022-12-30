@@ -1,0 +1,12 @@
+authorize	Cho quyền, ủy quyền, cho phép	/ˈɔːθəraɪz/	I have authorized the doctor to perform all the tests he needs.	v	
+conduct	Tiến hành	/kənˈdʌkt/	We are conducting a research on how junk food harms our health.	v	
+consult	Hỏi ý kiến, tham vấn	/kənˈsʌlt/	She consulted her doctor about her skin problem.	v	
+disseminate	Lan tỏa, lan truyền (thông tin, kiến thức)	/dɪˈsemɪneɪt/	One of the organization's aims is to disseminate information about the disease.	v	
+emphasize on	Nhấn mạnh vào	/ˈemfəsaɪz ɑːn/	The doctor emphasized on his diet after taking medicine.	phrV	
+expert	Chuyên gia, nhà chuyên môn	/ˈekspɜːrt/	Experts agreed that a balanced diet is the key to great health.	n	
+gradually	Dần dần, chậm rãi	/ˈɡrædʒuəli/	She got used gradually to the vegetarian diet.	adv	
+hygiene	Sự vệ sinh, tính vệ sinh	/ˈhaɪdʒiːn/	Children were delighted to take part in a health contest involving questions about general health and hygiene.	n	
+improve	Cải thiện, nâng cao (cái gì)	/ɪmˈpruːv/	It is important to follow the doctor's recommendations if you want to improve your health.	v	
+incur	Phải gánh chịu	/ɪnˈkɜːr/	Smokers incur many health problems.	v	
+inhibit	Ngăn chặn, hạn chế, ngăn cấm	/ɪnˈhɪbɪt/	A lack of oxygen may inhibit brain development in the unborn child.	v	
+limit	Hạn chế	/ˈlɪmɪt/	Applying sunscreen helps you limit your exposure to the sun.	v	

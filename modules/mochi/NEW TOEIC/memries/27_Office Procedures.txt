@@ -1,0 +1,12 @@
+casually	Tự nhiên, thoải mái, không trang trọng	/ˈkæʒuəli/	On Saturdays, most employees dress casually.	adv	
+catalog	Danh mục, thư mục	/ˈkætəlɔːɡ/	The catalog is organized alphabetically by label name.	n	
+certificate	Giấy chứng nhận	/sərˈtɪfɪkət/	A certificate of completion will be issued to all who complete the course.	n	
+compile	Biên soạn, tổng hợp (tài liệu)	/kəmˈpaɪl/	He compiled some facts and figures to make a report.	v	
+disparate	Khác hẳn nhau, rất khác biệt	/ˈdɪspərət/	This is difficult when working with multiple networks and disparate systems.	adj	
+divide	Chia ra, tách ra	/dɪˈvaɪd/	The workers will be evenly divided among the three locations.	v	
+general	Chung, chung chung, tổng	/ˈdʒenrəl/	The administration department manages the general documents.	adj	
+membership	Tư cách hội viên	/ˈmembərʃɪp/	To sign up for your membership, please enter your information in this form.	n	
+requirement	Sự yêu cầu	/rɪˈkwaɪərmənt/	To meet the requirements of the office, she had to sign some papers and commitments.	n	
+scan	Xem lướt qua, quét qua, nhìn một lượt	/skæn/	Her boss scanned the report on losses of goods in warehouse.	v	
+several	Riêng, riêng rẽ	/ˈsevrəl/	We are striving to reach an agreement which will satisfy the several interests of the parties concerned.	adj	
+signature	Chữ ký, hành động ký	/ˈsɪɡnətʃər/	You need an official signature from the owner to validate the order.	n	

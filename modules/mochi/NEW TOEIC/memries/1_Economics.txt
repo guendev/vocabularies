@@ -1,0 +1,11 @@
+project	Đề án, dự án, kế hoạch	/ˈprɑːdʒekt/	They were receiving a government grant for their agricultural project to develop local economics.	n	
+overview	Tổng quan, bao quát	/ˈəʊvərvjuː/	Data and research on economy including economic overview, analysis and forecasts, country surveys, ... can be found on the official website of the government.	n	
+economic growth	Tăng trưởng kinh tế	/ˌekəˈnɑːmɪk ɡrəʊθ/	We need to maintain low inflation and at the same time create an environment that is conducive to economic growth.	phrase	
+inflation	Lạm phát	/ɪnˈfleɪʃn/	There has been an alarming rise in the rate of inflation.	n	
+deflation	Giảm phát	/ˌdiːˈfleɪʃn/	Apart from Japan, the industrial world has not seen deflation for 70 years.	n	
+periodically	Định kỳ, theo chu kỳ	/ˌpɪriˈɑːdɪkli/	The Bloomberg newspaper recently pointed out that the economic crisis recur periodically.	adv	
+compare	So sánh, đối chiếu	/kəmˈper/	You can see an increase in economics when you compare this year with the same period last year.	v	
+comparable	Tương đương, có thể so sánh được	/ˈkɑːmpərəbl/	Inflation is now at a rate comparable with that in other European countries.	adj	
+comparative	Tương đối, so sánh	/kəmˈpærətɪv/	The company is a comparative newcomer to the software market.	adj	
+burden	Gánh nặng	/ˈbɜːrdn/	In the end it's consumers who bear the burden of higher prices.	n	
+ascertain	Xác định, tìm hiểu chắc chắn	/ˌæsərˈteɪn/	They must ascertain if the land is still owned by the government.	v	

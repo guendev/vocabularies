@@ -1,0 +1,11 @@
+hamper	Làm vướng, cản trở, ngăn trở	/ˈhæmpər/	This is hampering the government's efforts to cope with the desperate financial situation.	v	
+opt	Chọn lựa, quyết định tham gia hoặc không	/ɑːpt/	The government has been encouraging individuals to opt out of the state pension scheme.	v	
+optimize	Tối ưu hóa	/ˈɑːptɪmaɪz/	Cash flows should be managed to optimize the return from cash received and to minimize the cost of finance.	v	
+overall	Toàn bộ, toàn thể, tất cả	/ˌəʊvərˈɔːl/	The overall cost of the exhibition was $400,000, that's more than $100,000 compared to last year.	adj	
+pay off a debt	Trả nợ, trả hết khoản nợ đã vay	/peɪ ɔːf eɪ det/	When is the time to pay off a debt if you are doing well with your business?	phrase	
+throw out	Vứt bỏ, loại bỏ	/θrəʊ aʊt/	Our calculations of the cost of our trip were thrown out by changes in the exchange rate.	phrV	
+under budget	Chi ít tiền hơn ngân sách/dự tính	/ˈʌndər ˈbʌdʒɪt/	The project, says Wagner, finished ahead of schedule and under budget.	phrase	
+worth	Đáng giá, đáng, bõ công	/wɜːrθ/	Buying those shares was a very wise move - they must be worth ten times their original value now.	adj	
+year-round	Quanh năm	/ˌjɪr ˈraʊnd/	Assuming a budget which does not allow for year-round spending, the next major consideration is how to divide it up.	adj	
+mortgage	Vay thế chấp	/ˈmɔːrɡɪdʒ/	They had to mortgage their home to borrow enough money to pay for their children’s education.	v	
+regulate	Quản lý, quy định	/ˈreɡjuleɪt/	The activities of credit companies are regulated by law.	v	

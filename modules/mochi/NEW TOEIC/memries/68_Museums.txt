@@ -1,0 +1,12 @@
+exhibit	Buổi triển lãm, vật triển lãm	/ɪɡˈzɪbɪt/	The exhibit will open on 7 June as part of the museum's ongoing Arts Around the World program.	n	
+entrance fee	Phí vào cửa	/ˈentrəns fiː/	All who have paid the museum entrance fee may view the exhibit.	phrase	
+on display	Được trưng bày	/ɒ:n dɪˈspleɪ/	His paintings are on display in the museum.	phrase	
+artifact	Đồ tạo tác, cổ vật (con người tạo ra)	/ˈɑːrtɪfækt/	An impressive collection of historical artifacts makes the Maritime Museum a wonderful place to learn about the region's seafaring history.	n	
+illuminate	Chiếu sáng, soi sáng	/ɪˈluːmɪneɪt/	Newly discovered artifacts may help illuminate the culture of the Aztecs.	v	
+crafting	Thủ công, nghề thủ công	/kræftɪŋ/	The South American Art exhibit will include paintings, sculptures, crafting tools, clothing from six South American countries.	n	
+patron	Người bảo trợ, khách đến (cửa hàng)	/ˈpeɪtrən/	He was a great patron of the arts and helped to establish the Baltimore Museum.	n	
+rotate	Luân chuyển, xoay vòng	/ˈrəʊteɪt/	Special exhibits rotate monthly.	v	
+contemporary	Đương đại, hiện tại	/kənˈtempəreri/	The exhibit will feature historical and contemporary artwork displays from renowned South American artists.	adj	
+sculpture	Sự điêu khắc, nghệ thuật điêu khắc	/ˈskʌlptʃər/	There's a new exhibition of sculpture on at the city gallery.	n	
+category	Loại, hạng	/ˈkætəɡɔːri/	Traditional categories within the arts include literature, the visual arts, the graphic arts, the performing arts, architecture, and so on.	n	
+accompany	Đi kèm	/əˈkʌmpəni/	The museum has scheduled a lecture series to accompany the special exhibit.	v	

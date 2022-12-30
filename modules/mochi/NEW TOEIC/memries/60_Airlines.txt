@@ -1,0 +1,11 @@
+announcement	Bản thông báo, sự thông cáo	/əˈnaʊnsmənt/	The flight attendant made an announcement reminding the passengers that this was a non-smoking flight.	n	
+arrival	Sự đến, sự tới nơi	/əˈraɪvl/	The flight's approximate time of arrival is 10.30 a.m.	n	
+visible	Có thể nhìn thấy, có thể nhận thấy	/ˈvɪzəbl/	As soon as the plane left the runways, they were enveloped in clouds, and neither ground nor sky visible during the entire one-hour flight.	adj	
+monitor	Màn hình (hiển thị)	/ˈmɑːnɪtər/	The details of today's flights are displayed on the monitor.	n	
+beverage	Đồ uống, thức uống (trừ nước lọc)	/ˈbevərɪdʒ/	The flight attendant offered all passengers a cold beverage on the flight.	n	
+check-in	Quầy làm thủ tục (sân bay), nhận phòng (khách sạn)	/ˈtʃek ɪn/	Aim to arrive at check-in at least two hours before departure.	n	
+depart	Rời khỏi, ra đi, khởi hành	/dɪˈpɑːrt/	The flight departed Amritsar at 6.15 p.m.	v	
+departure	Sự rời khỏi, sự ra đi, sự khởi hành	/dɪˈpɑːrtʃər/	If you time your departure carefully, you should be able to miss the worst of the traffic.	n	
+embarkation	Sự cho lên (tàu, máy bay)	/ˌembɑːrˈkeɪʃn/	The flight crew must check the passengers' documents before embarkation.	n	
+identify	Nhận diện, nhận ra, xác định, nhận dạng	/aɪˈdentɪfaɪ/	Passengers were asked to identify their own suitcases before they were put on the plane.	v	
+currently	Hiện tại, hiện thời	/ˈkɜːrəntli/	All flights are currently delayed due to the snow storm.	adv	

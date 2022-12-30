@@ -1,0 +1,12 @@
+maintain	Giữ không đổi	/meɪnˈteɪn/	We have been able to maintain prices for our customers at their current level.	v	
+maintenance	Sự bảo trì	/ˈmeɪntənəns/	The maintenance department is responsible for the general upkeep of the park.	n	
+ability	Khả năng	/əˈbɪləti/	The system has the ability to run more than one program at the same time.	n	
+accuracy	Sự đúng đắn, tính chính xác	/ˈækjərəsi/	He challenged the accuracy of the research results.	n	
+circumstance	Trường hợp, hoàn cảnh	/ˈsɜːrkəmstæns/	We cannot afford to lease a whole building under any circumstances.	n	
+collaboration	Sự cộng tác, hợp tác	/kəˌlæbəˈreɪʃn/	The new airport is a collaboration between two of the best architects in the country.	n	
+steady	Ổn định, vững vàng	/ˈstedi/	There has been a steady improvement in the company's situation.	adj	
+gain control	Giành được quyền kiểm soát	/ɡeɪn kənˈtrəʊl/	Contino brought in a new management team and took steps to gain control of the overtime budget.	phrase	
+lose control	Mất quyền kiểm soát	/luːz kənˈtrəʊl/	The man lost control of his car and crashed into a tree.	phrase	
+correctly	Đúng cách thức, một cách đúng đắn	/kəˈrektli/	Make sure all the machines function correctly for tomorrow.	adv	
+force	Dùng vũ lực, ép buộc, bắt buộc	/fɔːrs/	As the operational expenses for the train system rose, the managers were forced to either cut services or raise prices.	v	
+code	Mã, điều lệ, bộ luật	/kəʊd/	In the event of the machine not operating correctly, an error code will appear.	n	

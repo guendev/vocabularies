@@ -1,0 +1,12 @@
+matter	Vấn đề, việc	/ˈmætər/	If there are no other matters to discuss, we will conclude the meeting.	n	
+attendee	Người tham dự	/əˌtenˈdiː/	Attendees participated in a variety of presentations and received free water bottles from event sponsors.	n	
+distraction	Sự làm xao nhãng, sự giải trí	/dɪˈstrækʃn/	Physical distractions are the physical things that get in the way of communication such as background noise, poor lighting.	n	
+beforehand	Trước, sớm hơn	/bɪˈfɔːrhænd/	You should contact him beforehand to make sure that he can arrange for you a meeting.	adv	
+facial expression	Biểu cảm khuôn mặt, vẻ mặt	/ˈfeɪʃl ɪkˈspreʃn/	Your body language, eye contact and facial expression can show involvement and receptivity.	n	
+get in touch	Liên lạc	/ɡet ɪn tʌtʃ/	Please get in touch with our representative for further information.	phrase	
+method	Phương pháp, cách thức	/ˈmeθəd/	Speech is the fastest method of communication between people.	n	
+on occasion	Thỉnh thoảng	/ɑːn əˈkeɪʒn/	He has, on occasion, made small mistakes while speaking English.	phrase	
+owe	Mắc nợ, mang ơn	/əʊ/	I owe you an apology - I'm afraid I forgot to send Amanda that report.	v	
+persuasion	Sự thuyết phục, niềm tin, sự tin chắc	/pərˈsweɪʒn/	She used all her powers of persuasion to convince Tilly that it was the right thing to do.	n	
+refer	Tham khảo, nhắc tới, chuyển đến	/rɪˈfɜːr/	When I give my presentation, I will probably have to refer to my notes.	v	
+summarize	Tóm tắt, tổng kết	/ˈsʌməraɪz/	I'll just summarize the main points of the argument in a few words.	v	

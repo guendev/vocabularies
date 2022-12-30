@@ -1,0 +1,11 @@
+attach	Gắn, gán cho, gắn liền	/əˈtætʃ/	I attach a copy of this month's report which includes figures for the last quarter.	v	
+bear	Chịu đựng, chống đỡ	/ber/	I can't bear working here anymore, I will quit my job at the end of this day.	v	
+blanket	Sự bao trùm, sự che phủ	/ˈblæŋkɪt/	A blanket of silence fell over everyone when they heard the disappointing announcement from the company.	n	
+confidence	Sự tự tin	/ˈkɑːnfɪdəns/	Receiving compliments from my work colleagues has boosted my confidence.	n	
+figure out	Hiểu ra, tính toán	/ˈfɪɡjər aʊt/	It took the whole team a long time to figure out the real problem in the project.	phrV	
+high standard	Tiêu chuẩn cao	/haɪ ˈstændərd/	Employees are expected to maintain a high standard of tidiness in their dress and appearance.	phrase	
+loyalty	Lòng trung thành	/ˈlɔɪəlti/	Flexible working hours encourages employee loyalty to the company.	n	
+sharp	Nhạy, sắc sảo	/ʃɑːrp/	The new staff proved how sharp she was when she mastered the new program in a few days.	adj	
+stand out	Nổi bật	/stænd aʊt/	You have to do things exceptionally well to stand out from the other coworkers.	phrV	
+thorough	Cẩn thận, chu đáo, kĩ lưỡng	/ˈθɜːrəʊ/	He's a slow worker but very thorough.	adj	
+time off	Thời gian nghỉ ốm/ nghỉ phép	/taɪm ɔːf/	There are rules covering time off work for maternity leave, sickness, or other temporary absence.	phrase	

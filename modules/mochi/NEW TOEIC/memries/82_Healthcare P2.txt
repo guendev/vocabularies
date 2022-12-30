@@ -1,0 +1,11 @@
+mandatory	Có tính bắt buộc	/ˈmændətɔːri/	It is mandatory for blood banks to test all donated blood for the virus.	adj	
+measurable	Có thể đo lường được	/ˈmeʒərəbl/	The service produces clear, measurable benefits to people's health.	adj	
+nutritionist	Nhà dinh dưỡng học	/nuˈtrɪʃənɪst/	By far the most popular event was nutritionist Jillian Opala's presentation on healthy eating habits.	n	
+occur	Xuất hiện, xảy ra	/əˈkɜːr/	The disease can occur at any time of the year.	v	
+perform	Hoạt động (xe cộ, máy móc)	/pərˈfɔːrm/	The car performed poorly during the tests.	v	
+prevention	Sự ngăn ngừa, ngăn chặn	/prɪˈvenʃn/	As far as health is concerned, it is often said that prevention is better than cure.	n	
+rate	Tỉ lệ	/reɪt/	The goverment implements new policies with a view of lowering infant mortality rate.	n	
+record	Sự ghi chép, hồ sơ	/ˈrekərd/	Your hospital record shows your medical history.	n	
+recur	Trở lại, tái diễn, lại xảy ra	/rɪˈkɜːr/	However, symptoms can recur when the child reaches his or her thirties or forties.	v	
+restricted	Bị hạn chế, có giới hạn	/rɪˈstrɪktɪd/	Progress on the vaccine has been considerable despite restricted resources.	adj	
+warning	Sự cảnh báo, lời cảnh báo	/ˈwɔːrnɪŋ/	The World Health Organization repeated its warning against non-essential travel to the island.	n	

@@ -1,0 +1,11 @@
+commercial	Thuộc thương mại, đem lại lợi nhuận	/kəˈmɜːrʃl/	His interest in culinary arts drew him to a commercial foods program.	adj	
+domestic	Trong nước, nội địa	/dəˈmestɪk/	The domestic market is still depressed, but the demand abroad is picking up.	adj	
+export	Xuất khẩu	/ɪkˈspɔːrt/	The products sell so well in this country that we have no need to export.	v	
+import	Nhập khẩu	/ɪmˈpɔːrt/	We import a large number of cars from Japan.	v	
+merchandise	Hàng hóa	/ˈmɜːrtʃəndaɪz/	Merchandise can now circulate freely among the EU countries.	n	
+promising	Có triển vọng, đầy hứa hẹn	/ˈprɑːmɪsɪŋ/	The commercial future of the company looks very promising.	adj	
+adapt	Thích nghi, thích ứng	/əˈdæpt/	To remain competitive, the company has to be able to adapt to the changing marketplace.	v	
+joint venture	Sự liên doanh, hợp doanh	/ˌdʒɔɪnt ˈventʃər/	The project is a joint venture between the public and private sectors.	n	
+strictly	Một cách nghiêm khắc, chặt chẽ	/ˈstrɪktli/	Export licences for this product are strictly controlled.	adv	
+target	Nhắm tới, hướng mục tiêu tới	/ˈtɑːrɡɪt/	They try to target the failing retailing group for takeover.	v	
+value	Giá trị, giá cả	/ˈvæljuː/	The value of this property has fallen since the plans for the airport were published.	n	

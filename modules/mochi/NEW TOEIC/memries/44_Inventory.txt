@@ -1,0 +1,12 @@
+inventory	Hàng tồn kho	/ˈɪnvəntɔːri/	The inventory will be disposed of after the next twelve weeks.	n	
+carrier	Người chuyên chở, vật chuyên chở	/ˈkæriər/	I want to talk to the carrier about my missing package.	n	
+in stock	Có sẵn trong kho	/ɪnˌstɑːk/	If these prizes are not in stock, we will send you an equivalent gift of the same value.	phrase	
+warehouse	Nhà kho	/ˈwerhaʊs/	The goods have been stored in warehouse for nearly 3 months.	n	
+categorize	Phân loại, chia loại	/ˈkætəɡəraɪz/	Inventory types can be categorized into three classifications: raw material, work-in-progress and finished goods.	v	
+crucial	Then chốt, quan trọng	/ˈkru:ʃl/	Inventory management is very crucial in the process of distribution.	adj	
+discrepancy	Sự khác nhau, không khớp (đáng ra phải giống nhau)	/dɪˈskrepənsi/	A discrepancy in inventory stock is when the actual stock in a warehouse does not match the recorded inventory stock count.	n	
+disturb	Làm phiền, quấy rầy	/dɪˈstɜːrb/	Let's see how many products we can count in advance of inventory so we disturb fewer customers.	v	
+excel	Vượt trội hơn	/ɪkˈsel/	The company's management method of inventory excels other companies' at its effectiveness.	v	
+failure	Sự thất bại	/ˈfeɪljər/	The new inventory control system was a complete failure.	n	
+outdated	Lỗi thời, cổ, hết thời	/ˌaʊtˈdeɪtɪd/	The outdated equipment should be replaced.	adj	
+precise	Chính xác, tỉ mỉ	/prɪˈsaɪs/	Only by maintaining a precise flow of inventory, we are able to minimize costs and ensure prompt shipments.	adj	

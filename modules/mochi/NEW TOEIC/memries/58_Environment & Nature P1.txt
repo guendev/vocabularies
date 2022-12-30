@@ -1,0 +1,12 @@
+solution	Giải pháp, cách giải quyết	/səˈluːʃn/	Efficient energy use is considered an important solution to the issues of climate change and pollution.	n	
+concern	Sự quan tâm, sự lo ngại	/kənˈsɜːrn/	There is growing concern about electronic waste in this area.	n	
+decade	Thập kỉ	/ˈdekeɪd/	The war may be short but the environmental impacts could last for decades.	n	
+alternative	Có thể dùng để thay thế	/ɔːlˈtɜːnətɪv/	Our future depends on alternative renewable resources.	adj	
+alternate	Luân phiên, xen kẽ, thay phiên	/ˈɔːltərneɪt/	Throughout the holiday, the weather alternated between rain and sunshine every day.	v	
+attend	Tham dự (sự kiện)	/əˈtend/	5,000 people from around the world were invited to attend the conference about global warming.	v	
+substitution	Sự thay thế	/ˌsʌbstɪˈtuːʃn/	The substitution of solar energy for thermal electricity could protect the environment.	n	
+compatible	Tương thích, phù hợp	/kəmˈpætəbl/	Environmentally compatible products minimize the adverse effects on the environment.	adj	
+inconsiderately	Thiếu thận trọng, khinh suất, thiếu suy nghĩ	/ˌɪnkənˈsɪdərətli/	The TV program showed marine life struggling to cope with the amount of plastic inconsiderately dumped into the oceans.	adv	
+increase	Sự tăng lên	null	Illegal logging has led to an increase in the number of animals that have become extinct.	n	
+subsequent	Tiếp theo, xảy ra sau	/ˈsʌbsɪkwənt/	Developments on this environment issue will be dealt with in a subsequent report.	adj	
+release	Nhả ra, phóng ra	/rɪˈliːs/	Vehicles release tons of exhaust fume everyday.	v	

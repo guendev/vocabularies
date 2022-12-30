@@ -1,0 +1,12 @@
+association	Hiệp hội	/əˌsəʊsiˈeɪʃn/	The conference was funded by Association of South-East Nations.	n	
+affiliate	Liên kết, nhập vào (một tổ chức lớn hơn)	/əˈfɪlieɪt/	All youth groups will have to affiliate to the National Youth Agency.	v	
+agency	Hãng, đại lý (về dịch vụ)	/ˈeɪdʒənsi/	I am working for an advertising agency.	n	
+firm	Công ty, doanh nghiệp (thường về dịch vụ)	/fɜːrm/	They announce that the firm next to the flower park will be relocating next week.	n	
+enterprise	Doanh nghiệp	/ˈentərpraɪz/	The new enterprise quickly established an account with the office supply store.	n	
+subsidiary	Thuộc chi nhánh, phụ trợ, phụ thuộc	/səbˈsɪdieri/	The subsidiary companies will now have more autonomy.	adj	
+run a company	Điều hành 1 công ty	/rʌn ə ˈkʌmpəni/	When you run a company with an estimated value of more than one billion dollars, it takes lots of pressure on your shoulders.	phrase	
+specialize in	Chuyên sâu về, chuyên môn về	/ˈspeʃəlaɪz ɪn/	BYF Company specializes in personalized promotional items to help companies advertise their brand.	phrase	
+function	Chức năng	/ˈfʌŋkʃn/	The primary function of R&D activity is to develop new products.	n	
+accomplishment	Thành tựu, sự hoàn thành, hoàn thiện	/əˈkɑːmplɪʃmənt/	It was one of the President's greatest accomplishments.	n	
+arrangement	Sự sắp xếp, sự sửa soạn	/əˈreɪndʒmənt/	They'd made all the arrangements for the party.	n	
+amenity	Dịch vụ tiện nghi	/əˈmenəti/	The building will be developed as a public amenity.	n	

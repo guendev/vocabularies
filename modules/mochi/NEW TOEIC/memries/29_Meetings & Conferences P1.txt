@@ -1,0 +1,10 @@
+bring up an issue	Đưa ra một vấn đề	/brɪŋ ʌp ən ˈɪʃuː/	Just as the meeting was about to finish, the manager brought up a controversial issue.	phrase	
+convention	Hội nghị, sự triệu tập, hiệp định, tục lệ, quy ước	/kənˈvenʃn/	They have delegated him to represent the city at the convention.	n	
+capacity	Sức chứa, sức chịu đựng, khả năng	/kəˈpæsəti/	The capacity of the room is 300 people.	n	
+debate	Cuộc tranh luận, cuộc thảo luận	/dɪˈbeɪt/	The debate will be moderated by Mr. Hammington.	n	
+session	Phiên họp, kì họp	/ˈseʃn/	A follow-up session was held after the initial meeting.	n	
+description	Sự mô tả, diễn tả	/dɪˈskrɪpʃn/	The director asked for a detailed description of our meeting.	n	
+hold	Tổ chức	/həʊld/	The board of director will hold an emergency session to discuss about the scandal.	v	
+lead	Dẫn (ai, cái gì) đi, dẫn đường	/liːd/	The waiter led us to our table.	v	
+logical	Theo lô-gic, hợp lý	/ˈlɑːdʒɪkl/	The questions should be asked in a logical sequence to be suitable for the meeting's workflow.	adj	
+marked	Rõ ràng, rõ rệt	/mɑːrkt/	They say they expect the meeting to have a marked impact on the future of the company.	adj	

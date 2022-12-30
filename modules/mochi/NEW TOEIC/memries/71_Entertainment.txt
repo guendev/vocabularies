@@ -1,0 +1,11 @@
+conflict	Sự đối lập, sự mâu thuẫn	/ˈkɑːnflɪkt/	The book's theme is the conflict between love and duty.	n	
+elegance	Tính thanh lịch, tính tao nhã	/ˈelɪɡəns/	His writing combines elegance and wit.	n	
+entertainer	Nghệ sĩ biểu diễn giải trí	/ˌentərˈteɪnər/	A street entertainer is performing my favorite song at the corner of the road.	n	
+enthusiastic	Nhiệt tình	/ɪnˌθuːziˈæstɪk/	She seems to be very enthusiastic about the idea for new music production.	adj	
+explore	Khám phá	/ɪkˈsplɔːr/	The collector likes to explore antique shops looking for bargains.	v	
+gardening	Nghề làm vườn, sự trồng vườn	/ˈɡɑːrdnɪŋ/	In retirement, she was able to indulge in her hobbies of gardening, choral singing, and woodwork.	n	
+leisure	Thời gian rảnh rỗi	/ˈliːʒər/	The woman took up painting in her retirement, when she had more leisure time.	n	
+recognize	Nhận ra	/ˈrekəɡnaɪz/	The actor's red hair and short stature made him easy to recognize.	v	
+subjective	Có tính chủ quan	/səbˈdʒektɪv/	The reviews in this guidebook are highly subjective, but fun to read.	adj	
+objective	Có tính khách quan	/əbˈdʒektɪv/	The Academy had to remain completely objective in order to decide the awards.	adj	
+outstanding	Xuất sắc vượt trội	/aʊtˈstændɪŋ/	Her outstanding performances set a new benchmark for singers throughout the world.	adj	

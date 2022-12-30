@@ -1,0 +1,10 @@
+acceptance	Sự chấp nhận, sự thừa nhận	/əkˈseptəns/	Cooking time but not cooking method affects children’s acceptance of Brassica vegetables.	n	
+apprentice	Người học việc, người học nghề	/əˈprentɪs/	The new group of apprentices will start working any day.	n	
+cook	Người đầu bếp	/kʊk/	John is known as a great cook in New York city.	n	
+creative	Có tính sáng tạo	/kriˈeɪtɪv/	You can get creative with this recipe and add whatever fruit you like.	adj	
+creativity	Óc sáng tạo, tính sáng tạo	/ˌkriːeɪˈtɪvəti/	Cooking can teach you about mindset innovation, creativity and mindfulness.	n	
+cuisine	Ẩm thực, nghệ thuật ẩm thực	/kwɪˈziːn/	Things such as traditions, cuisine, customs are a country's cultural identities.	n	
+culinary school	Trường dạy nấu ăn	/ˈkʌlɪneri skuːl/	People who plan to become chefs should enroll in an accredited culinary school.	phrase	
+draw	Lôi kéo, thu hút, lôi cuốn	/drɔː/	Matthew was drawn to a career in cooking, and it led him to opening a restaurant as present.	v	
+flavour	Hương vị, gia vị	/ˈfleɪvər/	Exotic flavours always excite me.	n	
+gain	Có được, giành được, lấy được	/ɡeɪn/	The cooking school has an apprentice program that places students in restaurants to gain work experience.	v	

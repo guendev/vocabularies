@@ -1,0 +1,12 @@
+clinical	Liên quan tới việc khám bệnh, lâm sàng	/ˈklɪnɪkl/	There are 170 clinical trials investigating the role of stem cells in heart disease.	adj	
+effective	Có hiệu quả	/ɪˈfektɪv/	This tiny capsule contains two types of effective painkiller ingredients.	adj	
+extensive	Bao quát, rộng	/ɪkˈstensɪv/	The drug has undergone extensive clinical trials.	adj	
+generally	Nói chung, thường là	/ˈdʒenrəli/	The new drug will be generally available from January.	adv	
+irritate	Gây kích ứng	/ˈɪrɪteɪt/	Some drugs can irritate the lining of the stomach.	v	
+license	Cấp giấy phép, cấp đăng ký	 /ˈlaɪsns/	The new drug has not yet been licensed in the US.	v	
+moderate	Vừa phải, ở mức trung bình	/ˈmɑːdərət/	The doctor warning that even moderate amounts of the drug can be fatal.	adj	
+pertinent	Đúng chỗ, phù hợp, có liên quan	/ˈpɜːrtnənt/	Your state board of pharmacy can provide pertinent information affecting consumers and patients in your state.	adj	
+reimbursement	Sự hoàn lại, sự bồi hoàn tiền	/ˌriːɪmˈbɜːrsmənt/	She is demanding reimbursement for the drugs that she was forced to buy last week.	n	
+remind	Gợi nhớ, nhắc nhở	/rɪˈmaɪnd/	The nurse reminded the patient to take drug as instructed.	v	
+restore	Khôi phục lại, phục hồi	/rɪˈstɔːr/	The medicine soon restored my health.	v	
+trial	Sự thử, cuộc thử nghiệm	/ˈtraɪəl/	A hospital's physician may approach a commercial drug company to initiate a clinical trial.	n	

@@ -1,0 +1,12 @@
+brand	Thương hiệu, nhãn hiệu	/brænd/	Supermarkets make a lot of profit on their own brand products.	n	
+competition	Sự cạnh tranh	/ˌkɑːmpəˈtɪʃn/	The company has decided not to join the competition for dominance in the market.	n	
+competitor	Đối thủ cạnh tranh	/kəmˈpetɪtər/	The Japanese can outsell any competitor in the market thanks to their determination and their strategy.	n	
+convince	Thuyết phục	/kənˈvɪns/	You must convince the customer that your product is what he or she wants.	v	
+aggressively	Quyết liệt, ráo riết, hung hăng	/əˈɡresɪvli/	Apple's were a much bigger concern than Samsung's and were aggressively expanding their share of the world market.	adv	
+communicate	Giao tiếp, truyền đạt	/kəˈmjuːnɪkeɪt/	Direct marketing allows a firm to communicate directly with its customers.	v	
+market share	Thị phần	/ˌmɑːrkɪt ˈʃer/	A bank's local market share tends to be divided equally between the local branch and branches located elsewhere.	n	
+customer satisfaction	Sự hài lòng của khách hàng	/ˈkʌstəmər ˌsætɪsˈfækʃn/	Green Mobile ranked highest in our survey for overall customer satisfaction.	phrase	
+data analysis	Phân tích dữ liệu	/ˈdætə əˈnæləsɪs/	Mr. Suto claims that important market trends become predictable with the use of data analysis.	phrase	
+database	Cơ sở dữ liệu	/ˈdætəbeɪs/	We have over 8000 customer names in our database.	n	
+demand	Nhu cầu	/dɪˈmænd/	Market research shows that demand for housing will continue to grow.	n	
+dominate the market	Chiếm ưu thế thị trường, chiếm lĩnh thị trường	/ˈdɑːmɪneɪt ðə ˈmɑːrkɪt/	They could take our products or product enhancements and then use them to dominate the market for these products.	phrase	

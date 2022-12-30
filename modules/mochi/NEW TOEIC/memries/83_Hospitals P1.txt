@@ -1,0 +1,12 @@
+admit	Nhận vào, cho vào	/ədˈmɪt/	He has been admitted to the hospital for a few days.	v	
+average	Trung bình	/ˈævərɪdʒ/	In recent years the average hospital stay for elderly patients has decreased.	adj	
+complication	Sự phức tạp, sự rắc rối	/ˌkɑːmplɪˈkeɪʃn/	She will have to spend two more days in the hospital due to complications during the surgery.	n	
+confidential	Bí mật, tuyệt mật	/ˌkɑːnfɪˈdenʃl/	Your medical records are strictly confidential.	adj	
+consecutively	Liên tiếp, dồn dập	/kənˈsekjətɪvli/	Three surgeries took place consecutively in eleven hours.	adv	
+delicately	Một cách công phu, cẩn thận, tinh tế	/ˈdelɪkətli/	The surgeon delicately removed shards of skull before sewing the scalp together again.	adv	
+diagnose	Chẩn đoán (bệnh)	/ˌdaɪəɡˈnəʊs/	He was diagnosed with cancer that year.	v	
+emergency	Sự khẩn cấp, tình trạng khẩn cấp	/ɪˈmɜːrdʒənsi/	The injured patient was admitted to the unit directly from the emergency room.	n	
+include in	Bao gồm trong	/ɪnˈkluːd ɪn/	Your patient's clothing cost is included in the admission fee.	phrase	
+infectious	Có tính truyền nhiễm	/ɪnˈfekʃəs/	A patient with an infectious disease was hospitalized this afternoon.	adj	
+initially	Ban đầu, lúc bắt đầu	/ɪˈnɪʃəli/	SARS 2003 showed that more people had been infected than was initially thought, so we should be cautious this time.	adv	
+intern	Thực tập sinh	/ˈɪntɜːrn/	Interns and residents at the hospital are working 12-hour shifts.	n	

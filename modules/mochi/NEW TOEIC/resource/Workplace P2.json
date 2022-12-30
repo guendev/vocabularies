@@ -1,0 +1,348 @@
+{
+  "name": "Workplace P2",
+  "link": "https://learn.mochidemy.com/user/10/474/learn",
+  "data": [
+    {
+      "id": 4741,
+      "content": "attach",
+      "review_status": null,
+      "phonetic": "/əˈtætʃ/",
+      "position": "v",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Gắn, gán cho, gắn liền",
+      "trans_hint": "Tôi gắn kèm một bản sao của báo cáo tháng này, trong đó có số liệu quý trước.",
+      "en_hint": "I attach a copy of this month's report which includes figures for the last quarter.",
+      "content_game_3": [
+        "a",
+        "t",
+        "t",
+        "a",
+        "c",
+        "h"
+      ],
+      "key_game_3": [
+        2,
+        3
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Attach_toeic.mp3",
+      "picture": "https://mochien3.1-api.mochidemy.com/public/images/question/Attach_toeic.png",
+      "content_game_1": "I <span style='font-weight: bold; border-bottom: 1px solid #000'>attach</span> a copy of this month's report which includes figures for the last quarter.",
+      "answer_en_hint": "I <span style='font-weight: bold; font-size: 15px'>attach</span> a copy of this month's report which includes figures for the last quarter.",
+      "learn_again": 0
+    },
+    {
+      "id": 4742,
+      "content": "bear",
+      "review_status": null,
+      "phonetic": "/ber/",
+      "position": "v",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Chịu đựng, chống đỡ",
+      "trans_hint": "Tôi không thể chịu được việc phải làm việc ở đây nữa, tôi sẽ nghỉ việc vào cuối ngày hôm nay.",
+      "en_hint": "I can't bear working here anymore, I will quit my job at the end of this day.",
+      "content_game_3": [
+        "b",
+        "e",
+        "a",
+        "r"
+      ],
+      "key_game_3": [
+        1,
+        2
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Bear_toeic.mp3",
+      "content_game_1": "I can't <span style='font-weight: bold; border-bottom: 1px solid #000'>bear</span> working here anymore, I will quit my job at the end of this day.",
+      "answer_en_hint": "I can't <span style='font-weight: bold; font-size: 15px'>bear</span> working here anymore, I will quit my job at the end of this day.",
+      "learn_again": 0
+    },
+    {
+      "id": 4743,
+      "content": "blanket",
+      "review_status": null,
+      "phonetic": "/ˈblæŋkɪt/",
+      "position": "n",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Sự bao trùm, sự che phủ",
+      "trans_hint": "Một sự im lặng bao trùm tất cả mọi người khi họ nghe thấy thông báo đáng thất vọng từ công ty.",
+      "en_hint": "A blanket of silence fell over everyone when they heard the disappointing announcement from the company.",
+      "content_game_3": [
+        "b",
+        "l",
+        "a",
+        "n",
+        "k",
+        "e",
+        "t"
+      ],
+      "key_game_3": [
+        1,
+        4
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Blanket_toeic.mp3",
+      "content_game_1": "A <span style='font-weight: bold; border-bottom: 1px solid #000'>blanket</span> of silence fell over everyone when they heard the disappointing announcement from the company.",
+      "answer_en_hint": "A <span style='font-weight: bold; font-size: 15px'>blanket</span> of silence fell over everyone when they heard the disappointing announcement from the company.",
+      "learn_again": 0
+    },
+    {
+      "id": 4744,
+      "content": "confidence",
+      "review_status": null,
+      "phonetic": "/ˈkɑːnfɪdəns/",
+      "position": "n",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Sự tự tin",
+      "trans_hint": "Nhận được lời khen từ các đồng nghiệp đã thúc đẩy sự tự tin của tôi.",
+      "en_hint": "Receiving compliments from my work colleagues has boosted my confidence.",
+      "content_game_3": [
+        "c",
+        "o",
+        "n",
+        "f",
+        "i",
+        "d",
+        "e",
+        "n",
+        "c",
+        "e"
+      ],
+      "key_game_3": [
+        1,
+        8
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Confidence_toeic.mp3",
+      "picture": "https://mochien3.1-api.mochidemy.com/public/images/question/Confidence_toeic.png",
+      "content_game_1": "Receiving compliments from my work colleagues has boosted my <span style='font-weight: bold; border-bottom: 1px solid #000'>confidence</span>.",
+      "answer_en_hint": "Receiving compliments from my work colleagues has boosted my <span style='font-weight: bold; font-size: 15px'>confidence</span>.",
+      "learn_again": 0
+    },
+    {
+      "id": 4745,
+      "content": "figure out",
+      "review_status": null,
+      "phonetic": "/ˈfɪɡjər aʊt/",
+      "position": "phrV",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Hiểu ra, tính toán",
+      "trans_hint": "Cả nhóm phải mất một khoảng thời gian rất lâu mới có thể hiểu ra vấn đề thực sự trong dự án.",
+      "en_hint": "It took the whole team a long time to figure out the real problem in the project.",
+      "content_game_3": [
+        "f",
+        "i",
+        "g",
+        "u",
+        "r",
+        "e",
+        "",
+        "o",
+        "u",
+        "t"
+      ],
+      "key_game_3": [
+        3,
+        8
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Figure_out_toeic.mp3",
+      "content_game_1": "It took the whole team a long time to <span style='font-weight: bold; border-bottom: 1px solid #000'>figure out</span> the real problem in the project.",
+      "answer_en_hint": "It took the whole team a long time to <span style='font-weight: bold; font-size: 15px'>figure out</span> the real problem in the project.",
+      "learn_again": 0
+    },
+    {
+      "id": 4746,
+      "content": "high standard",
+      "review_status": null,
+      "phonetic": "/haɪ ˈstændərd/",
+      "position": "phrase",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Tiêu chuẩn cao",
+      "trans_hint": "Nhân viên dự kiến sẽ duy trì tiêu chuẩn cao về sự gọn gàng trong trang phục và ngoại hình của họ.",
+      "en_hint": "Employees are expected to maintain a high standard of tidiness in their dress and appearance.",
+      "content_game_3": [
+        "h",
+        "i",
+        "g",
+        "h",
+        "",
+        "s",
+        "t",
+        "a",
+        "n",
+        "d",
+        "a",
+        "r",
+        "d"
+      ],
+      "key_game_3": [
+        9,
+        12
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/High_standard_toeic.mp3",
+      "content_game_1": "Employees are expected to maintain a <span style='font-weight: bold; border-bottom: 1px solid #000'>high standard</span> of tidiness in their dress and appearance.",
+      "answer_en_hint": "Employees are expected to maintain a <span style='font-weight: bold; font-size: 15px'>high standard</span> of tidiness in their dress and appearance.",
+      "learn_again": 0
+    },
+    {
+      "id": 4747,
+      "content": "loyalty",
+      "review_status": null,
+      "phonetic": "/ˈlɔɪəlti/",
+      "position": "n",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Lòng trung thành",
+      "trans_hint": "Giờ làm việc linh hoạt sẽ khuyến khích sự trung thành của nhân viên đối với công ty.",
+      "en_hint": "Flexible working hours encourages employee loyalty to the company.",
+      "content_game_3": [
+        "l",
+        "o",
+        "y",
+        "a",
+        "l",
+        "t",
+        "y"
+      ],
+      "key_game_3": [
+        4,
+        5
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Loyalty_toeic.mp3",
+      "content_game_1": "Flexible working hours encourages employee <span style='font-weight: bold; border-bottom: 1px solid #000'>loyalty</span> to the company.",
+      "answer_en_hint": "Flexible working hours encourages employee <span style='font-weight: bold; font-size: 15px'>loyalty</span> to the company.",
+      "learn_again": 0
+    },
+    {
+      "id": 4748,
+      "content": "sharp",
+      "review_status": null,
+      "phonetic": "/ʃɑːrp/",
+      "position": "adj",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Nhạy, sắc sảo",
+      "trans_hint": "Cô nhân viên mới đã cho thấy mình nhanh nhạy tới mức nào khi làm chủ chương trình mới chỉ sau vài ngày.",
+      "en_hint": "The new staff proved how sharp she was when she mastered the new program in a few days.",
+      "content_game_3": [
+        "s",
+        "h",
+        "a",
+        "r",
+        "p"
+      ],
+      "key_game_3": [
+        1,
+        3
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Sharp_toeic.mp3",
+      "content_game_1": "The new staff proved how <span style='font-weight: bold; border-bottom: 1px solid #000'>sharp</span> she was when she mastered the new program in a few days.",
+      "answer_en_hint": "The new staff proved how <span style='font-weight: bold; font-size: 15px'>sharp</span> she was when she mastered the new program in a few days.",
+      "learn_again": 0
+    },
+    {
+      "id": 4749,
+      "content": "stand out",
+      "review_status": null,
+      "phonetic": "/stænd aʊt/",
+      "position": "phrV",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Nổi bật",
+      "trans_hint": "Bạn phải làm việc đặc biệt tốt để có thể nổi bật hơn các đồng nghiệp khác.",
+      "en_hint": "You have to do things exceptionally well to stand out from the other coworkers.",
+      "content_game_3": [
+        "s",
+        "t",
+        "a",
+        "n",
+        "d",
+        "",
+        "o",
+        "u",
+        "t"
+      ],
+      "key_game_3": [
+        3,
+        6
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Stand_out_toeic.mp3",
+      "content_game_1": "You have to do things exceptionally well to <span style='font-weight: bold; border-bottom: 1px solid #000'>stand out</span> from the other coworkers.",
+      "answer_en_hint": "You have to do things exceptionally well to <span style='font-weight: bold; font-size: 15px'>stand out</span> from the other coworkers.",
+      "learn_again": 0
+    },
+    {
+      "id": 4750,
+      "content": "thorough",
+      "review_status": null,
+      "phonetic": "/ˈθɜːrəʊ/",
+      "position": "adj",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Cẩn thận, chu đáo, kĩ lưỡng",
+      "trans_hint": "Anh ấy là người làm việc chậm chạp nhưng lại rất cẩn thận.",
+      "en_hint": "He's a slow worker but very thorough.",
+      "content_game_3": [
+        "t",
+        "h",
+        "o",
+        "r",
+        "o",
+        "u",
+        "g",
+        "h"
+      ],
+      "key_game_3": [
+        1,
+        2
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Thorough_toeic.mp3",
+      "content_game_1": "He's a slow worker but very <span style='font-weight: bold; border-bottom: 1px solid #000'>thorough</span>.",
+      "answer_en_hint": "He's a slow worker but very <span style='font-weight: bold; font-size: 15px'>thorough</span>.",
+      "learn_again": 0
+    },
+    {
+      "id": 4751,
+      "content": "time off",
+      "review_status": null,
+      "phonetic": "/taɪm ɔːf/",
+      "position": "phrase",
+      "lesson_id": "474",
+      "course_id": 10,
+      "multi_answer": [],
+      "trans": "Thời gian nghỉ ốm/ nghỉ phép",
+      "trans_hint": "Có những quy định về thời gian nghỉ làm do nghỉ sinh, nghỉ ốm hay những sự vắng mặt tạm thời khác.",
+      "en_hint": "There are rules covering time off work for maternity leave, sickness, or other temporary absence.",
+      "content_game_3": [
+        "t",
+        "i",
+        "m",
+        "e",
+        "",
+        "o",
+        "f",
+        "f"
+      ],
+      "key_game_3": [
+        2,
+        5
+      ],
+      "audio": "https://mochien3.1-api.mochidemy.com/public/audios/question/Time_off_toeic.mp3",
+      "content_game_1": "There are rules covering <span style='font-weight: bold; border-bottom: 1px solid #000'>time off</span> work for maternity leave, sickness, or other temporary absence.",
+      "answer_en_hint": "There are rules covering <span style='font-weight: bold; font-size: 15px'>time off</span> work for maternity leave, sickness, or other temporary absence.",
+      "learn_again": 0
+    }
+  ]
+}

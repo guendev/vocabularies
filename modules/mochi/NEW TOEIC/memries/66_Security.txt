@@ -1,0 +1,12 @@
+adopt	Tiếp thu, áp dụng	/əˈdɑːpt/	The police adopted tighter security measures.	v	
+back up	Sao lưu, dự trữ	/bæk ʌp/	You should back up your files onto a hard disk drive.	phrV	
+conclude	Kết luận, kết thúc	/kənˈkluːd/	We can conclude who is the culprit with these evidences.	v	
+escort	Sự hộ tống, người hộ tống	/ˈeskɔːrt/	Prisoners are taken to court under police escort.	n	
+investigate	Điều tra	/ɪnˈvestɪɡeɪt/	Police are investigating the massive fraud.	v	
+obey	Tuân theo, nghe theo	/əˈbeɪ/	He was arrested when he failed to obey a police instruction to stop.	v	
+protect from	Bảo vệ, bảo hộ khỏi	/prəˈtekt frəm/	You can protect yourself from scams by getting detailed information on the seller.	phrV	
+reinforce	Củng cố, tăng cường	/ˌriːɪnˈfɔːrs/	Engineers reinforced the existing cranes for extra security.	v	
+safety	Sự an toàn, tính an toàn, nơi an toàn	/ˈseɪfti/	We urge you to adopt all necessary measures to guarantee people's safety.	n	
+secure	An toàn, an ninh	/sɪˈkjʊr/	New technology should provide a secure firewall against hackers.	adj	
+the scope of	Phạm vi của	/ðə skəʊp əv/	The police are broadening the scope of their investigation.	phrase	
+track down	Tìm ra, lần ra	/træk daʊn/	The police have so far failed to track down the attacker.	phrV	

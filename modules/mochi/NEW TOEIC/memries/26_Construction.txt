@@ -1,0 +1,12 @@
+architecture	Kiến trúc	/ˈɑːrkɪtektʃər/	The incredible architecture of Hanoi Opera House makes it one of the most beautiful attractions in Hanoi.	n	
+be made of	Được làm bằng (chất liệu, nguyên liệu)	/biː meɪd ʌv/	This building also will be made of structural steel and concrete block, just as the previous one.	phrase	
+certain	Chắc chắn, nhất định, nào đó	/ˈsɜːrtn/	On a certain construction crew, there are 3 carpenters for every 2 painters.	adj	
+commonly	Thường thường, thông thường	/ˈkɑːmənli/	Wood is a commonly used building material here in the village.	adv	
+construction	Xây dựng	/kənˈstrʌkʃn/	These policies have sent the construction industry into an abrupt nosedive.	n	
+downside	Khuyết điểm, bất lợi	/ˈdaʊnsaɪd/	Like any construction material, metal has some downsides.	n	
+material	Nguyên liệu, chất liệu, vật liệu	/məˈtɪriəl/	Air-cleaning bricks are innovative construction materials that can filter incoming air to remove pollutants.	n	
+notable	Đáng kể, đáng chú ý, có tiếng	/ˈnəʊtəbl/	One of the world's most notable construction projects is the Suez Canal, which caused more than 120,000 deaths.	adj	
+plan	Bản kế hoạch, dự định, sơ đồ	/plæn/	The railway system was modelled on the successful plan used in other countries.	n	
+postpone	Trì hoãn	/pəʊˈspəʊn/	Construction was postponed for a time because of an unanticipated problem related to the ground conditions on the site.	v	
+proposal	Kế hoạch đề xuất, bản thảo, lời cầu hôn	/prəˈpəʊzl/	The proposal for a new high-speed railway met with strong opposition.	n	
+avoidable	Có thể tránh được	/əˈvɔɪdəbl/	This construction safety guide walks through the top avoidable safety threats present at a construction jobsite.	adj	
