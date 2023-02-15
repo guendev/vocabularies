@@ -1,7 +1,6 @@
 const adjustName = async () => {
 
-    const names = ["Economics","Commerce P1","Commerce P2","Business Planning P1","Business Planning P2","Marketing","Advertisement","Negotiations","Contracts P1","Contracts P2","Sales & Production","Finance P1","Finance P2","Banking","Investments P1","Investments P2","Accounting","Taxes & Policies","Billing & Expenses","Organizations P1","Organizations P2","Products P1","Products P2","Operation","Industry","Construction","Office Procedures","Management","Meetings & Conferences P1","Meetings & Conferences P2","Office Technology P1","Office Technology P2","Communication","Correspondence & Documents","Common Words P1","Common Words P2","Multiple-meaning words P1","Multiple-meaning words P2","Ordering & Shipping","Shopping","Customer Services P1","Customer Services P2","Warranties","Inventory","Recruiting & Applying P1","Recruiting & Applying P2","Employee Training","Salaries & Benefits P1","Salaries & Benefits P2","Promotions & Recognition","Workplace P1","Workplace P2","Career P1","Career P2","Society P1","Society P2","Social Issues","Environment & Nature P1","Environment & Nature P2","Airlines","Transportation","Science","Education & Schooling P1","Education & Schooling P2","Agriculture","Security","Arts","Museums","Movies","Music","Entertainment","Events","Media","Traveling P1","Traveling P2","Hotels","Household","Cooking P1","Cooking P2","Restaurants","Healthcare P1","Healthcare P2","Hospitals P1","Hospitals P2","Clinics","Pharmacies","Insurance","Common Phrases P1","Common Phrases P2","Transition Words"]
-
+    const names = ["Bài 1","Bài 2","Bài 3","Bài 4","Bài 5","Bài 6","Bài 7","Bài 8","Bài 9","Bài 10","Bài 11","Bài 12","Bài 13","Bài 14","Bài 15","Bài 16","Bài 17","Bài 18","Bài 19","Bài 20","Bài 21","Bài 22","Bài 23","Bài 24","Bài 25","Bài 26","Bài 27","Bài 28","Bài 29","Bài 30","Bài 31","Bài 32","Bài 33","Bài 34","Bài 35","Bài 36","Bài 37","Bài 38","Bài 39","Bài 40","Bài 41","Bài 42","Bài 43","Bài 44","Bài 45","Bài 46","Bài 47"]
     document.querySelectorAll('.level-name').forEach((el, index) => {
         setTimeout(() => {
 
@@ -9,9 +8,13 @@ const adjustName = async () => {
 
             setTimeout(() => {
                 el.querySelector('input').value = names[index]
-            }, 300)
+            }, 30)
 
-        }, 500 * index)
+            setTimeout(() => {
+                el.querySelector('input').click()
+            }, 50)
+
+        }, 100 * index)
     })
 }
 
