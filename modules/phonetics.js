@@ -52,7 +52,7 @@ const toPhonetics = async (text) => {
     return phonetic.text || ''
 }
 
-// toPhonetics('cut back on')
+toPhonetics('cut back on')
 
 module.exports = toPhonetics
 

@@ -1,0 +1,700 @@
+[
+  [
+    {
+      "idiom": "Make a living",
+      "meaning": "Kiếm sống",
+      "example": "My new next-door neighbor makes a living as a car mechanic.",
+      "phonetics": "meɪk ə ˈlɪvɪŋ"
+    },
+    {
+      "idiom": "Call it a day",
+      "meaning": "Dừng làm việc",
+      "example": "After four hours of studying this evening, I called it a day.",
+      "phonetics": "kɔl ɪt ə deɪ"
+    },
+    {
+      "idiom": "Put in",
+      "meaning": "Dành thời gian làm việc",
+      "example": "Some workers choose to put in ten hours a day instead of eight hours.",
+      "phonetics": "pʊt ɪn"
+    },
+    {
+      "idiom": "Be cut out (for/to be)",
+      "meaning": "Có kỹ năng hoặc năng lực",
+      "example": "His fear of flying means that he’s definitely not cut out to be a pilot.",
+      "phonetics": "bi kʌt aʊt (fɔr/tə bi)"
+    },
+    {
+      "idiom": "Wet behind the ears",
+      "meaning": "Non nớt, thiếu kinh nghiệm",
+      "example": "The new staff is so wet behind the ears that he’ll need a lot of training.",
+      "phonetics": "wɛt bɪˈhaɪnd ði ɪrz"
+    }
+  ],
+  [
+    {
+      "idiom": "Sign up for",
+      "meaning": "Đăng ký tham gia cái gì",
+      "example": "I signed up for a gymnastics class at the recreation center.",
+      "phonetics": "saɪn ʌp fɔr"
+    },
+    {
+      "idiom": "Brush up on",
+      "meaning": "Ôn tập",
+      "example": "As you learn new vocabulary, it’s good to brush up on it regularly.",
+      "phonetics": "brʌʃ ʌp ɑn"
+    },
+    {
+      "idiom": "Hand in",
+      "meaning": "Nộp, trình lên",
+      "example": "Please hand in your homework before you leave the classroom.",
+      "phonetics": "hænd ɪn"
+    },
+    {
+      "idiom": "Teacher’s pet",
+      "meaning": "Học sinh cưng",
+      "example": "I think John got an A because he’s the teacher’s pet.",
+      "phonetics": "ˈtiʧərz pɛt"
+    },
+    {
+      "idiom": "Drop out (of)",
+      "meaning": "Bỏ, ngừng tham gia",
+      "example": "Michael had to drop out of school in order to work full-time.",
+      "phonetics": "drɑp aʊt (ʌv)"
+    }
+  ],
+  [
+    {
+      "idiom": "Hunt for bargains",
+      "meaning": "ìm mua hàng giá rẻ",
+      "example": "The week after Christmas is the best time to hunt for bargains.",
+      "phonetics": "hʌnt fər ˈbɑrɡənz"
+    },
+    {
+      "idiom": "Go window-shopping",
+      "meaning": "Chỉ ngắm mà không mua hàng",
+      "example": "When I don’t have enough money, I love to go window-shopping",
+      "phonetics": "ɡoʊ ˈwɪndoʊ-ˈʃɑpɪŋ"
+    },
+    {
+      "idiom": "Stock up (on)",
+      "meaning": "Mua tích trữ",
+      "example": "Department stores always stock up on gifts before Christmas.",
+      "phonetics": "stɑk ʌp (ɑn)"
+    },
+    {
+      "idiom": "On sale",
+      "meaning": "giảm giá",
+      "example": "By buying things when they’re on sale, it’s possible to save a lot of money",
+      "phonetics": "ɑn seɪl"
+    },
+    {
+      "idiom": "Take back",
+      "meaning": "Trả hàng",
+      "example": "You can take back this jacket if you are not satisfied with it.",
+      "phonetics": "teɪk bæk"
+    }
+  ],
+  [
+    {
+      "idiom": "Let one’s hair down",
+      "meaning": "Thư giãn",
+      "example": "This vacation is just the right way for me to loosen up and enjoy myself.",
+      "phonetics": "lɛt wʌnz hɛr daʊn"
+    },
+    {
+      "idiom": "Give sb a lift",
+      "meaning": "Cho ai đó đi nhờ xe",
+      "example": "Could you give a lift to the airport next Wednesday?",
+      "phonetics": "ɡɪv sb ə lɪft"
+    },
+    {
+      "idiom": "Hit the road",
+      "meaning": "Lên đường",
+      "example": "We have to be there by 10 am, so we’re hitting the road early tomorrow.",
+      "phonetics": "hɪt ðə roʊd"
+    },
+    {
+      "idiom": "At the crack of dawn",
+      "meaning": "Sáng sớm",
+      "example": "We have to get up at the crack of dawn to get to the airport on time.",
+      "phonetics": "ət ðə kræk əv dɔn"
+    },
+    {
+      "idiom": "Off the beaten track",
+      "meaning": "Xa xôi, hẻo lánh",
+      "example": "She found the greatest restaurants that are off the beaten track.",
+      "phonetics": "ɔf ðə ˈbitən træk"
+    }
+  ],
+  [
+    {
+      "idiom": "Be cut out (for/to be)",
+      "meaning": "Có kỹ năng hoặc năng lực làm gì",
+      "example": "His fear of flying means that he’s definitely not cut out to be a pilot.",
+      "phonetics": "bi kʌt aʊt (fɔr/tə bi)"
+    },
+    {
+      "idiom": "Get off the ground",
+      "meaning": "Bắt đầu thực hiện kế hoạch nào đó",
+      "example": "We’re still trying to get this project off the ground.",
+      "phonetics": "ɡɛt ɔf ðə ɡraʊnd"
+    },
+    {
+      "idiom": "Call it a day/Call it a night",
+      "meaning": "Nghỉ ngơi, dừng làm việc",
+      "example": "After four hours of studying this evening, I called it a day.",
+      "phonetics": "kɔl ɪt ə deɪ/kɔl ɪt ə naɪt"
+    },
+    {
+      "idiom": "Touch base with",
+      "meaning": "Liên lạc với ai đó",
+      "example": "The secretary will touch base with the design company tomorrow.",
+      "phonetics": "tʌʧ beɪs wɪð"
+    },
+    {
+      "idiom": "Wet behind the ears",
+      "meaning": "Non nớt, thiếu kinh nghiệm",
+      "example": "The new staff is so wet behind the ears that he’ll need a lot of training.",
+      "phonetics": "wɛt bɪˈhaɪnd ði ɪrz"
+    }
+  ],
+  [
+    {
+      "idiom": "Love at first sight",
+      "meaning": "Yêu từ cái nhìn đầu tiên",
+      "example": "Jim and Sue had a very happy ending after three months of dating. It was love at first sight.",
+      "phonetics": "lʌv ət fɜrst saɪt"
+    },
+    {
+      "idiom": "Fall head over heels in love with someone",
+      "meaning": "Yêu si mê ai đó",
+      "example": "He fell head over heels in love with Sarah and they got married three months after their first date.",
+      "phonetics": "fɔl hɛd ˈoʊvər hilz ɪn lʌv wɪð ˈsʌmˌwʌn"
+    },
+    {
+      "idiom": "On cloud nine",
+      "meaning": "Rất vui và hạnh phúc",
+      "example": "Jack was on cloud nine when his girlfriend said ‘yes’ to his proposal.",
+      "phonetics": "ɑn klaʊd naɪn"
+    },
+    {
+      "idiom": "Break someone’s heart",
+      "meaning": "Làm tổn thương ai",
+      "example": "She left him later that year and broke his heart.",
+      "phonetics": "breɪk ˈsʌmˌwʌnz hɑrt"
+    },
+    {
+      "idiom": "A long face",
+      "meaning": "Buồn bã, chán nản",
+      "example": "If you go to the party, don’t spoil your uncle’s evening with a long face.",
+      "phonetics": "ə lɔŋ feɪs"
+    }
+  ],
+  [
+    {
+      "idiom": "Teacher’s pet",
+      "meaning": "Học sinh cưng",
+      "example": "I think John got an A because he’s the teacher’s pet.",
+      "phonetics": "ˈtiʧərz pɛt"
+    },
+    {
+      "idiom": "Pass with flying colors",
+      "meaning": "Vượt qua kỳ thi với điểm số cao",
+      "example": "Minh passed the university entrance exam with flying colors.",
+      "phonetics": "pæs wɪð ˈflaɪɪŋ ˈkʌlərz"
+    },
+    {
+      "idiom": "Learn by heart",
+      "meaning": "Học thuộc lòng",
+      "example": "I had to learn the whole book by heart to pass the history test.",
+      "phonetics": "lɜrn baɪ hɑrt"
+    },
+    {
+      "idiom": "Rack one’s brain",
+      "meaning": "Suy nghĩ rất lâu, rất nhiều cho một vấn đề nào đó",
+      "example": "They asked me for fresh ideas, so I racked my brain, but couldn’t come up with anything.",
+      "phonetics": "ræk wʌnz breɪn"
+    }
+  ],
+  [
+    {
+      "idiom": "Born with a silver spoon in one’s mouth",
+      "meaning": "Lớn lên trong một gia đình sung túc, đủ điều kiện",
+      "example": "He was born with a silver spoon in his mouth, so he has never known what hard work is.",
+      "phonetics": "bɔrn wɪð ə ˈsɪlvər spun ɪn wʌnz maʊθ"
+    },
+    {
+      "idiom": "Flesh and blood",
+      "meaning": "Người thân trong gia đình",
+      "example": "You can’t just let your own flesh and blood go to prison if there’s any way you can help.",
+      "phonetics": "flɛʃ ənd blʌd"
+    },
+    {
+      "idiom": "Run in the family",
+      "meaning": "Đặc điểm chung trong gia đình",
+      "example": "Talk to your doctor about any illnesses that run in your family.",
+      "phonetics": "rʌn ɪn ðə ˈfæməli"
+    },
+    {
+      "idiom": "Black sheep",
+      "meaning": "Người khác biệt trong gia đình",
+      "example": "Being the black sheep of the family, I’m the only one who works as an artist, while my parents are both teachers.",
+      "phonetics": "blæk ʃip"
+    },
+    {
+      "idiom": "Men make houses, women make homes",
+      "meaning": "Đàn ông xây nhà, đàn bà xây tổ ấm",
+      "example": "Folks rumored that men make houses, women make homes. So, in Viet Nam, men often work outside to earn money, while women take care of the home.",
+      "phonetics": "mɛn meɪk ˈhaʊzɪz, ˈwɪmən meɪk hoʊmz"
+    }
+  ],
+  [
+    {
+      "idiom": "Eat like a horse",
+      "meaning": "Ăn rất nhiều, rất khỏe",
+      "example": "Rohit is thin as a stick yet he eats like a horse.",
+      "phonetics": "it laɪk ə hɔrs"
+    },
+    {
+      "idiom": "Make one’s mouth water",
+      "meaning": "Rất ngon, hấp dẫn",
+      "example": "The smell of oven-fresh baked pizza made my mouth water.",
+      "phonetics": "meɪk wʌnz maʊθ ˈwɔtər"
+    },
+    {
+      "idiom": "Spoil one’s appetite",
+      "meaning": "Làm ai đó ăn mất ngon, chán ăn.",
+      "example": "Looking at the gruesome video of the chickens being slaughtered at KFC made me lose my appetite.",
+      "phonetics": "spɔɪl wʌnz ˈæpəˌtaɪt"
+    },
+    {
+      "idiom": "Have one’s cake and eat it (too)",
+      "meaning": "(Được voi đòi tiên)",
+      "example": "You can’t have your cake and eat it – if you want more local services, you can’t expect to pay less tax.",
+      "phonetics": "həv wʌnz keɪk ənd it ɪt (tu)"
+    },
+    {
+      "idiom": "Put all one’s eggs in one basket",
+      "meaning": "Đặt hết nguồn lực vào 1 nơi",
+      "example": "I’m applying for several jobs because I don’t really want to put all my eggs in one basket.",
+      "phonetics": "pʊt ɔl wʌnz ɛɡz ɪn wʌn ˈbæskət"
+    }
+  ],
+  [
+    {
+      "idiom": "Skin and bone(s)",
+      "meaning": "Rất gầy, như da bọc xương",
+      "example": "By the end of her life she was nothing but skin and bones.",
+      "phonetics": "skɪn ənd boʊn(ɛs)"
+    },
+    {
+      "idiom": "Lend someone a hand",
+      "meaning": "Giúp đỡ ai đó",
+      "example": "Could you lend me a hand with these books, please?",
+      "phonetics": "lɛnd ˈsʌmˌwʌn ə hænd"
+    },
+    {
+      "idiom": "Save face",
+      "meaning": "Giữ thể diện",
+      "example": "Most children have a need to save face in front of their friends.",
+      "phonetics": "seɪv feɪs"
+    },
+    {
+      "idiom": "Give someone the cold shoulder",
+      "meaning": "Cố tình phớt lờ, lảng tránh ai đó",
+      "example": "He was upset to find his colleagues giving him the cold shoulder.",
+      "phonetics": "ɡɪv ˈsʌmˌwʌn ðə koʊld ˈʃoʊldər"
+    },
+    {
+      "idiom": "Get off on the wrong foot",
+      "meaning": "Khởi đầu một hoạt động/ mối quan hệ không tốt đẹp",
+      "example": "We got off on the wrong foot the first time I met him, but that’s all forgotten now.",
+      "phonetics": "ɡɛt ɔf ɑn ðə rɔŋ fʊt"
+    }
+  ],
+  [
+    {
+      "idiom": "Ill at ease",
+      "meaning": "Cảm thấy lo lắng và không thoải mái",
+      "example": "She looked ill at ease when she had to do public speaking.",
+      "phonetics": "ɪl ət iz"
+    },
+    {
+      "idiom": "At death’s door",
+      "meaning": "Rất ốm và gần như sắp qua đời",
+      "example": "My grandpa was so ill. The doctor said he was at death’s door.",
+      "phonetics": "ət dɛθs dɔr"
+    },
+    {
+      "idiom": "Safe and sound",
+      "meaning": "Bình yên vô sự",
+      "example": "Make sure everyone is safe and sound after the earthquake.",
+      "phonetics": "seɪf ənd saʊnd"
+    },
+    {
+      "idiom": "Kick the bucket",
+      "meaning": "Qua đời",
+      "example": "Our neighbor is about to kick the bucket – he has some sort of kidney infection.",
+      "phonetics": "kɪk ðə ˈbʌkət"
+    },
+    {
+      "idiom": "Fight for one’s life",
+      "meaning": "Cố gắng để giữ lấy tính mạng của mình",
+      "example": "Mary won a desperate fight for life and went on to make a full recovery.",
+      "phonetics": "faɪt fər wʌnz laɪf"
+    }
+  ],
+  [
+    {
+      "idiom": "Ill at ease",
+      "meaning": "Cảm thấy lo lắng và không thoải mái",
+      "example": "She looked ill at ease when she had to do public speaking.",
+      "phonetics": "ɪl ət iz"
+    },
+    {
+      "idiom": "At death’s door",
+      "meaning": "Rất ốm và gần như sắp qua đời",
+      "example": "My grandpa was so ill. The doctor said he was at death’s door.",
+      "phonetics": "ət dɛθs dɔr"
+    },
+    {
+      "idiom": "Safe and sound",
+      "meaning": "Bình yên vô sự",
+      "example": "Make sure everyone is safe and sound after the earthquake.",
+      "phonetics": "seɪf ənd saʊnd"
+    },
+    {
+      "idiom": "Kick the bucket",
+      "meaning": "Qua đời",
+      "example": "Our neighbor is about to kick the bucket – he has some sort of kidney infection.",
+      "phonetics": "kɪk ðə ˈbʌkət"
+    },
+    {
+      "idiom": "Fight for one’s life",
+      "meaning": "Cố gắng để giữ lấy tính mạng của mình",
+      "example": "Mary won a desperate fight for life and went on to make a full recovery.",
+      "phonetics": "faɪt fər wʌnz laɪf"
+    }
+  ],
+  [
+    {
+      "idiom": "Set alarm bells ringing",
+      "meaning": "Gióng lên hồi chuông báo động",
+      "example": "Continuous natural disasters set alarm bells ringing about environmental pollution.",
+      "phonetics": "sɛt əˈlɑrm bɛlz ˈrɪŋɪŋ"
+    },
+    {
+      "idiom": "Do wonders for something/somebody",
+      "meaning": "Có tác động tốt tới cái gì/ai",
+      "example": "The change of diet has done wonders for my skin.",
+      "phonetics": "dʊ ˈwʌndərz fər ˈsʌmθɪŋ/ˈsʌmˌbɑdi"
+    },
+    {
+      "idiom": "Get back to nature",
+      "meaning": "Hòa mình với thiên nhiên",
+      "example": "I want to get back to nature but I don’t have much time for it due to my hectic schedule.",
+      "phonetics": "ɡɛt bæk tə ˈneɪʧər"
+    },
+    {
+      "idiom": "A drop in the ocean",
+      "meaning": "Lượng rất nhỏ",
+      "example": "Banning plastic bags is just a drop in the ocean. We need to ban all single-use plastic.",
+      "phonetics": "ə drɑp ɪn ði ˈoʊʃən"
+    },
+    {
+      "idiom": "A hot potato",
+      "meaning": "Vấn đề nan giản, khó giải quyết",
+      "example": "Environmental pollution is a hot potato nowadays because it is really complicated and hard to solve.",
+      "phonetics": "ə hɑt pəˈteɪˌtoʊ"
+    }
+  ],
+  [
+    {
+      "idiom": "to be in (someone’s) shoes",
+      "meaning": "Thông cảm và hiểu cho ai đó",
+      "example": "As hard as it is to live with a disability, remember that you’re not alone—a lot of other people are in your shoes, too.",
+      "phonetics": "tə bi ɪn (ˈsʌmˌwʌnz) ʃuz"
+    },
+    {
+      "idiom": "None of one’s business",
+      "meaning": "Không phải việc của mình",
+      "example": "It’s really none of his business what I do with the money I earn.",
+      "phonetics": "nʌn əv wʌnz ˈbɪznəs"
+    },
+    {
+      "idiom": "Be the apple of one’s eye",
+      "meaning": "Được ai yêu thích",
+      "example": "Tony is the apple of my eye; he’s not only handsome but also very gallant.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Fight like cat and dog",
+      "meaning": "Cãi nhau như chó với mèo",
+      "example": "My brother and I are very close in age and we used to fight like cat and dog.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Talk man to man / Have a man-to-man chat with",
+      "meaning": "Nói chuyện thẳng thắn, nghiêm túc",
+      "example": "I think I need to have a man-to-man chat with you about the dangers of unprotected sex.",
+      "phonetics": ""
+    }
+  ],
+  [
+    {
+      "idiom": "Pressed for time",
+      "meaning": "Không có nhiều thời gian",
+      "example": "But since we are mostly pressed for time in the morning, a lavish breakfast becomes an impossible idea most of the time.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Time flies",
+      "meaning": "Thời gian trôi nhanh",
+      "example": "I can’t believe that your youngest kid is about 20 now. How ime flies.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Have a whale of a time",
+      "meaning": "Có một khoảng thời gian vui vẻ",
+      "example": "I hope you have a whale of a time abroad. Take care!",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Better late than never",
+      "meaning": "Thà muộn còn hơn là không bao giờ",
+      "example": "I know it’s too late to say sorry but I guess better late than never.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Beat the clock",
+      "meaning": "Hoàn thành việc gì đó trước deadline hay trước khi hết giờ, đến hạn",
+      "example": "He beat the clock and booked an English course before prices increased!",
+      "phonetics": ""
+    }
+  ],
+  [
+    {
+      "idiom": "Down-and-out",
+      "meaning": "Không có tiền, công việc, nhà cửa",
+      "example": "That old man is a down-and-out, coming over twice a week to take the leftover food.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Pour money down the drain",
+      "meaning": "Tiêu hoang",
+      "example": "Don’t pour money down the drain by buying that low-quality computer. It’s going to break soon.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Make ends meet",
+      "meaning": "Kiếm đủ tiền để sống qua ngày",
+      "example": "Many people are struggling to make ends meet because wages are failing to keep pace with rising prices.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Cost an arm and a leg",
+      "meaning": "Đắt đỏ",
+      "example": "It cost us an arm and a leg to get here. But it has been worth every penny and more.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Tighten one’s belt",
+      "meaning": "Thắt lưng buộc bụng, tiết kiệm",
+      "example": "Clearly, if you are spending more than your income, you’ll need to tighten your belt.",
+      "phonetics": ""
+    }
+  ],
+  [
+    {
+      "idiom": "Rain cats and dogs",
+      "meaning": "Mưa như trút nước",
+      "example": "I think I’ll stay home today. It’s raining cats and dogs and I don’t want to drive.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Save money for a rainy day",
+      "meaning": "Tiết kiệm tiền cho tương lai",
+      "example": "Luckily she had saved some money for a rainy day.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "It never rains but it pours",
+      "meaning": "Những điều tốt/xấu xảy ra liên tục",
+      "example": "We had nothing to do for weeks, then suddenly we have all this work to do: it never rains but it pours!",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Rain or shine",
+      "meaning": "Cho dù chuyện gì xảy ra",
+      "example": "He goes jogging every morning, rain or shine.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Take a rain check (on something)",
+      "meaning": "Từ chối một lời đề nghị/ lời mời",
+      "example": "They wanted me to come along for the ride but I took a rain check.",
+      "phonetics": ""
+    }
+  ],
+  [
+    {
+      "idiom": "A woman of few words",
+      "meaning": "Người phụ nữ ít nói",
+      "example": "My mother was a woman of few words, but when she spoke it was worth listening to.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "A woman for all seasons",
+      "meaning": "Người phụ nữ tài năng, thành công ở nhiều lĩnh vực",
+      "example": "Judy paints, does photography, and writes novels. She’s a woman for all seasons.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "A woman of means",
+      "meaning": "Người phụ nữ giàu có",
+      "example": "Her extravagant spending habits led everyone to believe that she was a woman of means.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Be one’s own man/woman",
+      "meaning": "Hành động độc lập, không phụ thuộc vào ai",
+      "example": "Working for herself meant that she could be her own woman.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "A man/woman of the people",
+      "meaning": "Người đàn ông/phụ nữ của nhân dân, công chúng",
+      "example": "The trouble with the governor’s campaign is that she is trying to be a woman of all people.",
+      "phonetics": ""
+    }
+  ],
+  [
+    {
+      "idiom": "A friend in need (is a friend indeed)",
+      "meaning": "Người bạn thực sự là một người sẵn sàng giúp đỡ, đặc biệt là trong những hoàn cảnh khó khăn.",
+      "example": "She stayed by me when I was depressed about my parents’ divorce, which made me believe that “a friend in need is a friend indeed.”",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Get on like a house on fire",
+      "meaning": "Cảm thấy thích ai đó và trở thành bạn rất nhanh",
+      "example": "I went over and struck up a conversation, and we got on like a house on fire.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Birds of a feather flock together",
+      "meaning": "Ngưu tầm ngưu, mã tầm mã",
+      "example": "Barry and Iris are always together, they both love horse racing, it just shows that birds of a feather flock together.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Know someone inside out",
+      "meaning": "Biết tường tận, hiểu rõ ai đó",
+      "example": "I just think you should know a person inside out before you decide to marry them.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Go back a long way",
+      "meaning": "Quen nhau được một thời gian",
+      "example": "We go back a long way, and she’s always kept in touch, always been there for me.",
+      "phonetics": ""
+    }
+  ],
+  [
+    {
+      "idiom": "No pain no gain",
+      "meaning": "Không có gì đạt được 1 cách dễ dàng",
+      "example": "It must be so hard to exercise for long. – Yeah, but I want to look good, and you know, no pain, no gain.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Burn the candle at both ends",
+      "meaning": "Làm việc quá sức, thức khuya dậy sớm",
+      "example": "She’d been burning the candle at both ends for months to prepare for her exam.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Pull your socks up",
+      "meaning": "Cải thiện phong độ, hiệu suất",
+      "example": "He’s going to have to pull his socks up if he wants to stay in the team.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Not do things by halves",
+      "meaning": "Làm hết sức mình",
+      "example": "“I didn’t realize you were decorating the whole house.” “Oh, we don’t do things by halves around here.”",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Go the extra mile",
+      "meaning": "Cố gắng hơn so với yêu cầu",
+      "example": "He’s a nice guy, always ready to go the extra mile for his friends.",
+      "phonetics": ""
+    }
+  ],
+  [
+    {
+      "idiom": "A dream come true",
+      "meaning": "Đạt được những gì mà mình mong muốn trong một khoảng thời gian dài",
+      "example": "Meeting you is a dream come true for me.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Beyond one’s wildest dreams",
+      "meaning": "Tốt đẹp hơn những gì mình tưởng tượng",
+      "example": "The project succeeded beyond our wildest dreams.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Win hands down",
+      "meaning": "Thắng cái gì đó dễ dàng",
+      "example": "We were really unprepared for our last game, and the other team won hands down.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Plain sailing",
+      "meaning": "Thuận buồm xuôi gió",
+      "example": "Once I got used to the diet, it was plain sailing and I lost six kilos over a four-month period.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Work like a charm",
+      "meaning": "Thành công tốt đẹp và nhanh chóng, như có bùa phép",
+      "example": "Our little arrangement worked like a charm.",
+      "phonetics": ""
+    }
+  ],
+  [
+    {
+      "idiom": "Play with fire",
+      "meaning": "Làm điều gây nguy hiểm",
+      "example": "In this economic climate, union leaders who are thinking about strikes are playing with fire.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "To be on the safe side",
+      "meaning": "Cho chắc ăn, tránh rủi ro",
+      "example": "I didn’t think it was serious but I took her to the doctor’s just to be on the safe side.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "A close shave",
+      "meaning": "Thoát khỏi tình huống nguy hiểm",
+      "example": "Seventeen school students had a close shave when a tree fell on their bus yesterday.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "Dog-eat-dog world",
+      "meaning": "Thế giới cạnh tranh",
+      "example": "The music industry is a dog-eat-dog world; one day you’re on top and the next, everyone forgets you.",
+      "phonetics": ""
+    },
+    {
+      "idiom": "An even playing field",
+      "meaning": "Sân chơi công bằng",
+      "example": "Given an even playing field, girls tend to do better at school than boys.",
+      "phonetics": ""
+    }
+  ]
+]
